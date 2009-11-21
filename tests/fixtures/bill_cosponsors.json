@@ -1,0 +1,53 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2009 The New York Times Company. All Rights Reserved.",
+   "results":[
+      {
+         "congress": "110",
+         "bill": "H.RES.1535",
+         "url_number": "hres1535",
+         "title": "Expressing disapproval of the Agreement Between the United States of America and the Republic of Iraq on the Withdrawal of United States Forces from Iraq and the Organization of Their Activities During Their Temporary Presence in Iraq, and for other purposes.",
+         "sponsor": "Barbara Lee",
+         "sponsor_id": "L000551",
+         "introduced_date": "December 10, 2008",
+         "cosponsors": "6",
+         "committees": "House Foreign Affairs",
+         "latest_major_action_date": "December 10, 2008",
+         "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on Foreign Affairs.",
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+             "cosponsors_by_party":[
+        {
+      "party": {
+        "id": "D",
+        "sponsors": "5"
+      }
+    },        {
+      "party": {
+        "id": "R",
+        "sponsors": "1"
+      }
+    }    ],
+         "cosponsors":[
+                  {
+           "cosponsor_id": "W000738",
+           "name": "Lynn Woolsey",
+           "date": "2008-12-10"         },                  {
+           "cosponsor_id": "S000810",
+           "name": "Pete Stark",
+           "date": "2008-12-10"         },                  {
+           "cosponsor_id": "K000336",
+           "name": "Dennis J. Kucinich",
+           "date": "2008-12-10"         },                  {
+           "cosponsor_id": "P000583",
+           "name": "Ron Paul",
+           "date": "2008-12-10"         },                  {
+           "cosponsor_id": "G000551",
+           "name": "Raúl M. Grijalva",
+           "date": "2008-12-10"         },                  {
+           "cosponsor_id": "L000287",
+           "name": "John Lewis",
+           "date": "2008-12-10"         }         ]
+      }
+   ]
+}

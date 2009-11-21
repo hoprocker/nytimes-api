@@ -1,0 +1,421 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2009 The New York Times Company. All Rights Reserved.",
+   "results":[
+      {
+         "congress": "110",
+         "chamber": "House",
+         "committee": "Committee on Appropriations",
+         "num_results": "66",
+         "offset": "0",
+         "current_members": [
+                          {
+                 "id": "O000007",
+                 "name": "David R. Obey",
+                 "party": "D",
+                 "rank_in_party": "1",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "M001120",
+                 "name": "John P. Murtha",
+                 "party": "D",
+                 "rank_in_party": "2",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "D000327",
+                 "name": "Norman D. Dicks",
+                 "party": "D",
+                 "rank_in_party": "3",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "M000844",
+                 "name": "Alan B. Mollohan",
+                 "party": "D",
+                 "rank_in_party": "4",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "K000009",
+                 "name": "Marcy Kaptur",
+                 "party": "D",
+                 "rank_in_party": "5",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "V000108",
+                 "name": "Peter J. Visclosky",
+                 "party": "D",
+                 "rank_in_party": "6",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "L000480",
+                 "name": "Nita M. Lowey",
+                 "party": "D",
+                 "rank_in_party": "7",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "S000248",
+                 "name": "José E. Serrano",
+                 "party": "D",
+                 "rank_in_party": "8",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "D000216",
+                 "name": "Rosa DeLauro",
+                 "party": "D",
+                 "rank_in_party": "9",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "M000933",
+                 "name": "James P. Moran",
+                 "party": "D",
+                 "rank_in_party": "10",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "O000085",
+                 "name": "John W. Olver",
+                 "party": "D",
+                 "rank_in_party": "11",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "P000099",
+                 "name": "Ed Pastor",
+                 "party": "D",
+                 "rank_in_party": "12",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "P000523",
+                 "name": "David E. Price",
+                 "party": "D",
+                 "rank_in_party": "13",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "E000063",
+                 "name": "Chet Edwards",
+                 "party": "D",
+                 "rank_in_party": "14",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "C000868",
+                 "name": "Robert E. Cramer",
+                 "party": "D",
+                 "rank_in_party": "15",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "K000113",
+                 "name": "Patrick J. Kennedy",
+                 "party": "D",
+                 "rank_in_party": "16",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "H000627",
+                 "name": "Maurice D. Hinchey",
+                 "party": "D",
+                 "rank_in_party": "17",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "R000486",
+                 "name": "Lucille Roybal-Allard",
+                 "party": "D",
+                 "rank_in_party": "18",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "F000030",
+                 "name": "Sam Farr",
+                 "party": "D",
+                 "rank_in_party": "19",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "J000283",
+                 "name": "Jesse L. Jackson Jr.",
+                 "party": "D",
+                 "rank_in_party": "20",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "K000180",
+                 "name": "Carolyn Cheeks Kilpatrick",
+                 "party": "D",
+                 "rank_in_party": "21",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "B000716",
+                 "name": "Allen Boyd",
+                 "party": "D",
+                 "rank_in_party": "22",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "F000043",
+                 "name": "Chaka Fattah",
+                 "party": "D",
+                 "rank_in_party": "23",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "R000462",
+                 "name": "Steven R. Rothman",
+                 "party": "D",
+                 "rank_in_party": "24",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "B000490",
+                 "name": "Sanford D. Bishop Jr.",
+                 "party": "D",
+                 "rank_in_party": "25",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "B000420",
+                 "name": "Marion Berry",
+                 "party": "D",
+                 "rank_in_party": "26",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "L000551",
+                 "name": "Barbara Lee",
+                 "party": "D",
+                 "rank_in_party": "27",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "U000039",
+                 "name": "Tom Udall",
+                 "party": "D",
+                 "rank_in_party": "28",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "S001150",
+                 "name": "Adam B. Schiff",
+                 "party": "D",
+                 "rank_in_party": "29",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "H001034",
+                 "name": "Michael M. Honda",
+                 "party": "D",
+                 "rank_in_party": "30",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "M001143",
+                 "name": "Betty McCollum",
+                 "party": "D",
+                 "rank_in_party": "31",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "I000057",
+                 "name": "Steve Israel",
+                 "party": "D",
+                 "rank_in_party": "32",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "R000577",
+                 "name": "Tim Ryan",
+                 "party": "D",
+                 "rank_in_party": "33",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "R000576",
+                 "name": "C.A. Dutch Ruppersberger",
+                 "party": "D",
+                 "rank_in_party": "34",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "C001058",
+                 "name": "Ben Chandler",
+                 "party": "D",
+                 "rank_in_party": "35",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "W000797",
+                 "name": "Debbie Wasserman Schultz",
+                 "party": "D",
+                 "rank_in_party": "36",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "R000568",
+                 "name": "Ciro D. Rodriguez",
+                 "party": "D",
+                 "rank_in_party": "37",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "C000059",
+                 "name": "Ken Calvert",
+                 "party": "R",
+                 "rank_in_party": "1",
+                 "begin_date": "2007-05-10"
+               },                           {
+                 "id": "L000274",
+                 "name": "Jerry Lewis",
+                 "party": "R",
+                 "rank_in_party": "1",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "Y000031",
+                 "name": "C. W. Bill Young",
+                 "party": "R",
+                 "rank_in_party": "2",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "R000141",
+                 "name": "Ralph Regula",
+                 "party": "R",
+                 "rank_in_party": "3",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "R000395",
+                 "name": "Harold Rogers",
+                 "party": "R",
+                 "rank_in_party": "4",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "W000672",
+                 "name": "Frank R. Wolf",
+                 "party": "R",
+                 "rank_in_party": "5",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "W000099",
+                 "name": "James T. Walsh",
+                 "party": "R",
+                 "rank_in_party": "6",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "H000666",
+                 "name": "David Lee Hobson",
+                 "party": "R",
+                 "rank_in_party": "7",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "K000288",
+                 "name": "Joseph K. Knollenberg",
+                 "party": "R",
+                 "rank_in_party": "8",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "K000220",
+                 "name": "Jack Kingston",
+                 "party": "R",
+                 "rank_in_party": "9",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "F000372",
+                 "name": "Rodney Frelinghuysen",
+                 "party": "R",
+                 "rank_in_party": "10",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "W000437",
+                 "name": "Roger Wicker",
+                 "party": "R",
+                 "rank_in_party": "11",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "T000260",
+                 "name": "Todd Tiahrt",
+                 "party": "R",
+                 "rank_in_party": "12",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "W000119",
+                 "name": "Zach Wamp",
+                 "party": "R",
+                 "rank_in_party": "13",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "L000111",
+                 "name": "Tom Latham",
+                 "party": "R",
+                 "rank_in_party": "14",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "A000055",
+                 "name": "Robert B. Aderholt",
+                 "party": "R",
+                 "rank_in_party": "15",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "E000172",
+                 "name": "Jo Ann Emerson",
+                 "party": "R",
+                 "rank_in_party": "16",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "G000377",
+                 "name": "Kay Granger",
+                 "party": "R",
+                 "rank_in_party": "17",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "P000263",
+                 "name": "John E. Peterson",
+                 "party": "R",
+                 "rank_in_party": "18",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "G000280",
+                 "name": "Virgil H. Goode",
+                 "party": "R",
+                 "rank_in_party": "19",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "L000552",
+                 "name": "Ray H. LaHood",
+                 "party": "R",
+                 "rank_in_party": "21",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "W000267",
+                 "name": "David J. Weldon",
+                 "party": "R",
+                 "rank_in_party": "22",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "S001148",
+                 "name": "Mike Simpson",
+                 "party": "R",
+                 "rank_in_party": "23",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "C001048",
+                 "name": "John Culberson",
+                 "party": "R",
+                 "rank_in_party": "24",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "K000360",
+                 "name": "Mark Steven Kirk",
+                 "party": "R",
+                 "rank_in_party": "25",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "C001045",
+                 "name": "Ander Crenshaw",
+                 "party": "R",
+                 "rank_in_party": "26",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "R000571",
+                 "name": "Denny Rehberg",
+                 "party": "R",
+                 "rank_in_party": "27",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "C001051",
+                 "name": "John Carter",
+                 "party": "R",
+                 "rank_in_party": "28",
+                 "begin_date": "2007-01-04"
+               },                           {
+                 "id": "A000361",
+                 "name": "Rodney Alexander",
+                 "party": "R",
+                 "rank_in_party": "29",
+                 "begin_date": "2007-01-04"
+               }             ]
+          ,
+          "former_members": [
+                          {
+                 "id": "D000429",
+                 "name": "John T. Doolittle",
+                 "party": "R",
+                 "rank_in_party": "20",
+                 "begin_date": "2007-01-04",
+                 "end_date": "2007-04-20"
+               }             ]
+                }
+   ]
+}

@@ -1,0 +1,214 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2009 The New York Times Company. All Rights Reserved.",
+   "results":[
+      {
+         "congress": "110",
+         "chamber": "House",
+         "num_results": "20",
+         "offset": "0",
+         "bills": [
+                          {
+                 "number": "H.R.7329",
+                 "url_number": "hr7329",
+                 "title": "To amend the Robert T. Stafford Disaster Relief and Emergency Assistance Act to authorize funding for emergency management performance grants to provide for domestic preparedness and collective response to major disasters,and for other purposes.",
+                 "sponsor_id": "T000193",
+                 "introduced_date": "December 10, 2008",
+                 "cosponsors": "0",
+                 "committees": "House Transportation and Infrastructure; House Homeland Security",
+                 "latest_major_action_date": "January  2, 2009",
+                 "latest_major_action": "Referred to House subcommittee. Status: Referred to the Subcommittee on Emergency Communications, Preparedness, and Response."
+              },                           {
+                 "number": "H.R.7327",
+                 "url_number": "hr7327",
+                 "title": "To make technical corrections related to the Pension Protection Act of 2006, and for other purposes.",
+                 "sponsor_id": "R000053",
+                 "introduced_date": "December 10, 2008",
+                 "cosponsors": "3",
+                 "committees": "House Ways and Means; House Education and Labor",
+                 "latest_major_action_date": "December 23, 2008",
+                 "latest_major_action": "Became Public Law No: 110-458"
+              },                           {
+                 "number": "H.R.7311",
+                 "url_number": "hr7311",
+                 "title": "To authorize appropriations for fiscal years 2008 through 2011 for the Trafficking Victims Protection Act of 2000, to enhance measures to combat trafficking in persons, and for other purposes.",
+                 "sponsor_id": "B000410",
+                 "introduced_date": "December  9, 2008",
+                 "cosponsors": "6",
+                 "committees": "House Foreign Affairs; House Energy and Commerce; House Judiciary",
+                 "latest_major_action_date": "December 23, 2008",
+                 "latest_major_action": "Became Public Law No: 110-457"
+              },                           {
+                 "number": "H.R.6184",
+                 "url_number": "hr6184",
+                 "title": "To provide for a program for circulating quarter dollar coins that are emblematic of a national park or other national site in each State, the District of Columbia, and each territory of the United States, and for other purposes.",
+                 "sponsor_id": "C000243",
+                 "introduced_date": "June  4, 2008",
+                 "cosponsors": "7",
+                 "committees": "House Financial Services; Senate Banking, Housing, and Urban Affairs",
+                 "latest_major_action_date": "December 23, 2008",
+                 "latest_major_action": "Became Public Law No: 110-456"
+              },                           {
+                 "number": "H.R.6859",
+                 "url_number": "hr6859",
+                 "title": "To designate the facility of the United States Postal Service located at 1501 South Slappey Boulevard in Albany, Georgia, as the 'Dr. Walter Carl Gordon, Jr. Post Office Building'.",
+                 "sponsor_id": "B000490",
+                 "introduced_date": "September 10, 2008",
+                 "cosponsors": "12",
+                 "committees": "House Oversight and Government Reform",
+                 "latest_major_action_date": "December 19, 2008",
+                 "latest_major_action": "Became Public Law No: 110-454"
+              },                           {
+                 "number": "H.R.7340",
+                 "url_number": "hr7340",
+                 "title": "To direct the Secretary of Transportation to waive non-Federal share requirements for certain transportation programs and activities through September 30, 2009.",
+                 "sponsor_id": "W000800",
+                 "introduced_date": "December 10, 2008",
+                 "cosponsors": "0",
+                 "committees": "House Transportation and Infrastructure",
+                 "latest_major_action_date": "December 11, 2008",
+                 "latest_major_action": "Referred to House subcommittee. Status: Referred to the Subcommittee on Highways and Transit."
+              },                           {
+                 "number": "H.R.7337",
+                 "url_number": "hr7337",
+                 "title": "To require certain air carriers of foreign air transportation to disclose the nature and source of delays and cancellations experienced by air travelers.",
+                 "sponsor_id": "S001164",
+                 "introduced_date": "December 10, 2008",
+                 "cosponsors": "0",
+                 "committees": "House Transportation and Infrastructure",
+                 "latest_major_action_date": "December 11, 2008",
+                 "latest_major_action": "Referred to House subcommittee. Status: Referred to the Subcommittee on Aviation."
+              },                           {
+                 "number": "H.R.7321",
+                 "url_number": "hr7321",
+                 "title": "To authorize financial assistance to eligible automobile manufacturers, and for other purposes.",
+                 "sponsor_id": "F000339",
+                 "introduced_date": "December 10, 2008",
+                 "cosponsors": "0",
+                 "committees": "House Financial Services; House Energy and Commerce; House Ways and Means; House Judiciary; House Transportation and Infrastructure; House Budget",
+                 "latest_major_action_date": "December 11, 2008",
+                 "latest_major_action": "Received in the Senate."
+              },                           {
+                 "number": "H.R.7005",
+                 "url_number": "hr7005",
+                 "title": "To amend the Internal Revenue Code of 1986 to provide alternative minimum tax relief for individuals for 2008.",
+                 "sponsor_id": "R000053",
+                 "introduced_date": "September 23, 2008",
+                 "cosponsors": "14",
+                 "committees": "House Ways and Means",
+                 "latest_major_action_date": "December 11, 2008",
+                 "latest_major_action": "Senate floor actions. Status: Motion by Senator Reid to reconsider the vote by which cloture on the motion to proceed to the measure (Record Vote No. 215] was not invoked entered in Senate."
+              },                           {
+                 "number": "H.RES.1535",
+                 "url_number": "hres1535",
+                 "title": "Expressing disapproval of the Agreement Between the United States of America and the Republic of Iraq on the Withdrawal of United States Forces from Iraq and the Organization of Their Activities During Their Temporary Presence in Iraq, and for other purposes.",
+                 "sponsor_id": "L000551",
+                 "introduced_date": "December 10, 2008",
+                 "cosponsors": "6",
+                 "committees": "House Foreign Affairs",
+                 "latest_major_action_date": "December 10, 2008",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on Foreign Affairs."
+              },                           {
+                 "number": "H.RES.1534",
+                 "url_number": "hres1534",
+                 "title": "Providing for consideration of the bill (H.R. 7321) to authorize financial assistance to eligible automobile manufacturers, and for other purposes.",
+                 "sponsor_id": "S000480",
+                 "introduced_date": "December 10, 2008",
+                 "cosponsors": "0",
+                 "committees": "House Rules",
+                 "latest_major_action_date": "December 10, 2008",
+                 "latest_major_action": "Passed/agreed to in House. Status: On agreeing to the resolution Agreed to by the Yeas and Nays: 225 - 179, 1 Present (Roll no. 688)."
+              },                           {
+                 "number": "H.RES.1533",
+                 "url_number": "hres1533",
+                 "title": "Waiving a requirement of clause 6(a) of Rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.",
+                 "sponsor_id": "S000480",
+                 "introduced_date": "December  9, 2008",
+                 "cosponsors": "0",
+                 "committees": "House Rules",
+                 "latest_major_action_date": "December 10, 2008",
+                 "latest_major_action": "Passed/agreed to in House. Status: On agreeing to the resolution Agreed to by the Yeas and Nays: 226 - 169 (Roll no. 685)."
+              },                           {
+                 "number": "H.RES.1532",
+                 "url_number": "hres1532",
+                 "title": "Condemning the November 26, 2008, terrorist attacks in Mumbai, India, and expressing sympathy to the innocent victims from India and around the world.",
+                 "sponsor_id": "M000309",
+                 "introduced_date": "December  9, 2008",
+                 "cosponsors": "80",
+                 "committees": "House Foreign Affairs",
+                 "latest_major_action_date": "December 10, 2008",
+                 "latest_major_action": "Passed/agreed to in House. Status: On agreeing to the resolution Agreed to without objection."
+              },                           {
+                 "number": "H.RES.1526",
+                 "url_number": "hres1526",
+                 "title": "Providing for consideration of motions to suspend the rules and waiving a requirement of clause 6(a) of the rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.",
+                 "sponsor_id": "S001174",
+                 "introduced_date": "October  2, 2008",
+                 "cosponsors": "0",
+                 "committees": "House Rules",
+                 "latest_major_action_date": "December 10, 2008",
+                 "latest_major_action": "House floor actions. Status: Pursuant to the provisions of H. Res. 1533, H. Res. 1526 is laid on the table."
+              },                           {
+                 "number": "H.R.7339",
+                 "url_number": "hr7339",
+                 "title": "To exclude six months of earnings in 2009 from Federal income and payroll taxes, and for other purposes.",
+                 "sponsor_id": "S000275",
+                 "introduced_date": "December 10, 2008",
+                 "cosponsors": "7",
+                 "committees": "House Ways and Means",
+                 "latest_major_action_date": "December 10, 2008",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on Ways and Means."
+              },                           {
+                 "number": "H.R.7338",
+                 "url_number": "hr7338",
+                 "title": "To exclude $125,000 ($250,000 in the case of a joint return) of taxable income from the individual Federal income tax for 2008 and to reduce the rates of tax on income subject to Federal income tax for 2008.",
+                 "sponsor_id": "S000275",
+                 "introduced_date": "December 10, 2008",
+                 "cosponsors": "6",
+                 "committees": "House Ways and Means",
+                 "latest_major_action_date": "December 10, 2008",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on Ways and Means."
+              },                           {
+                 "number": "H.R.7336",
+                 "url_number": "hr7336",
+                 "title": "To amend the Internal Revenue Code of 1986 to prevent the alternative minimum tax from effectively repealing the Federal tax exemption for interest on State and local private activity bonds.",
+                 "sponsor_id": "N000015",
+                 "introduced_date": "December 10, 2008",
+                 "cosponsors": "0",
+                 "committees": "House Ways and Means",
+                 "latest_major_action_date": "December 10, 2008",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on Ways and Means."
+              },                           {
+                 "number": "H.R.7335",
+                 "url_number": "hr7335",
+                 "title": "To amend title 31, United States Code, to allow certain local tax debt to be collected through the reduction of Federal tax refunds.",
+                 "sponsor_id": "M000933",
+                 "introduced_date": "December 10, 2008",
+                 "cosponsors": "0",
+                 "committees": "House Oversight and Government Reform; House Ways and Means",
+                 "latest_major_action_date": "December 10, 2008",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+              },                           {
+                 "number": "H.R.7334",
+                 "url_number": "hr7334",
+                 "title": "To amend the Federal Deposit Insurance Act to require each insured depository institution which receives an investment or other assistance under the Troubled Assets Relief Program to include in the quarterly call report the amount of any increase in new lending that is attributable to such investment or assistance, and for other purposes.",
+                 "sponsor_id": "L000553",
+                 "introduced_date": "December 10, 2008",
+                 "cosponsors": "1",
+                 "committees": "House Financial Services",
+                 "latest_major_action_date": "December 10, 2008",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on Financial Services."
+              },                           {
+                 "number": "H.R.7333",
+                 "url_number": "hr7333",
+                 "title": "To amend the Emergency Economic Stabilization Act of 2008 (Public Law 110-343) to provide the Special Inspector General with additional personnel, audit, and investigation authorities, and for other purposes.",
+                 "sponsor_id": "F000444",
+                 "introduced_date": "December 10, 2008",
+                 "cosponsors": "0",
+                 "committees": "House Financial Services",
+                 "latest_major_action_date": "December 10, 2008",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on Financial Services."
+              }             ]
+      }
+   ]
+}

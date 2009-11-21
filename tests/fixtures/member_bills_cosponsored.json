@@ -1,0 +1,214 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2009 The New York Times Company. All Rights Reserved.",
+   "results":[
+      {
+         "id": "L000447",
+         "name": "Trent Lott",
+         "num_results": "20",
+         "offset": "0",
+         "bills": [
+                          {
+                 "number": "S.334",
+                 "url_number": "s334",
+                 "title": "A bill to provide affordable, guaranteed private health coverage that will make Americans healthier and can never be taken away.",
+                 "cosponsored_date": "2007-12-07",                 "sponsor_id": "W000779",
+                 "introduced_date": "2007-01-18",
+                 "cosponsors": "17",
+                 "committees": "Senate Finance",
+                 "latest_major_action_date": "2007-01-18",
+                 "latest_major_action": "Referred to Senate committee. Status: Read twice and referred to the Committee on Finance."
+              },                           {
+                 "number": "S.2396",
+                 "url_number": "s2396",
+                 "title": "A bill to amend title XI of the Social Security Act to modernize the quality improvement organization (QIO) program.",
+                 "cosponsored_date": "2007-11-16",                 "sponsor_id": "H000338",
+                 "introduced_date": "2007-11-16",
+                 "cosponsors": "6",
+                 "committees": "Senate Finance",
+                 "latest_major_action_date": "2007-11-16",
+                 "latest_major_action": "Referred to Senate committee. Status: Read twice and referred to the Committee on Finance."
+              },                           {
+                 "number": "S.RES.378",
+                 "url_number": "sres378",
+                 "title": "A resolution recognizing and thanking all military families for the tremendous sacrifices and contributions they have made to the Nation.",
+                 "cosponsored_date": "2007-11-14",                 "sponsor_id": "M001153",
+                 "introduced_date": "2007-11-14",
+                 "cosponsors": "39",
+                 "committees": "",
+                 "latest_major_action_date": "2007-11-14",
+                 "latest_major_action": "Passed/agreed to in Senate. Status: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent."
+              },                           {
+                 "number": "S.RES.358",
+                 "url_number": "sres358",
+                 "title": "A resolution expressing the importance of friendship and cooperation between the United States and Turkey.",
+                 "cosponsored_date": "2007-11-14",                 "sponsor_id": "S001142",
+                 "introduced_date": "2007-10-29",
+                 "cosponsors": "5",
+                 "committees": "Senate Foreign Relations",
+                 "latest_major_action_date": "2007-10-29",
+                 "latest_major_action": "Referred to Senate committee. Status: Referred to the Committee on Foreign Relations."
+              },                           {
+                 "number": "S.RES.371",
+                 "url_number": "sres371",
+                 "title": "A resolution expressing the sense of the Senate regarding the issuance of State driver's licenses and other government-issued photo identification to illegal aliens.",
+                 "cosponsored_date": "2007-11-08",                 "sponsor_id": "C001057",
+                 "introduced_date": "2007-11-08",
+                 "cosponsors": "21",
+                 "committees": "Senate Judiciary",
+                 "latest_major_action_date": "2007-11-08",
+                 "latest_major_action": "Referred to Senate committee. Status: Referred to the Committee on the Judiciary."
+              },                           {
+                 "number": "S.2332",
+                 "url_number": "s2332",
+                 "title": "A bill to promote transparency in the adoption of new media ownership rules by the Federal Communications Commission, and to establish an independent panel to make recommendations on how to increase the representation of women and minorities in broadcast media ownership.",
+                 "cosponsored_date": "2007-11-08",                 "sponsor_id": "D000432",
+                 "introduced_date": "2007-11-08",
+                 "cosponsors": "24",
+                 "committees": "Senate Commerce, Science, and Transportation",
+                 "latest_major_action_date": "2008-09-15",
+                 "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 966."
+              },                           {
+                 "number": "S.2164",
+                 "url_number": "s2164",
+                 "title": "A bill to establish a Science and Technology Scholarship Program to award scholarships to recruit and prepare students for careers in the National Weather Service and in National Oceanic and Atmospheric Administration marine research, atmospheric research, and satellite programs and for other purposes.",
+                 "cosponsored_date": "2007-11-05",                 "sponsor_id": "I000024",
+                 "introduced_date": "2007-10-15",
+                 "cosponsors": "2",
+                 "committees": "Senate Commerce, Science, and Transportation",
+                 "latest_major_action_date": "2007-10-15",
+                 "latest_major_action": "Referred to Senate committee. Status: Read twice and referred to the Committee on Commerce, Science, and Transportation."
+              },                           {
+                 "number": "S.2293",
+                 "url_number": "s2293",
+                 "title": "A bill to amend the Internal Revenue Code of 1986 to repeal the individual alternative minimum tax, and for other purposes.",
+                 "cosponsored_date": "2007-11-01",                 "sponsor_id": "L000447",
+                 "introduced_date": "2007-11-01",
+                 "cosponsors": "9",
+                 "committees": "",
+                 "latest_major_action_date": "2007-11-02",
+                 "latest_major_action": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 464."
+              },                           {
+                 "number": "S.2254",
+                 "url_number": "s2254",
+                 "title": "A bill to establish the Mississippi Hills National Heritage Area in the State of Mississippi, and for other purposes.",
+                 "cosponsored_date": "2007-10-30",                 "sponsor_id": "C000567",
+                 "introduced_date": "2007-10-29",
+                 "cosponsors": "2",
+                 "committees": "Senate Energy and Natural Resources",
+                 "latest_major_action_date": "2008-06-16",
+                 "latest_major_action": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 796."
+              },                           {
+                 "number": "S.2251",
+                 "url_number": "s2251",
+                 "title": "A bill to ensure that individual homeowners that were not previously required to purchase flood insurance that are now required to do so because of the updating of flood insurance program rate maps receive a discount for the purchase of such insurance.",
+                 "cosponsored_date": "2007-10-26",                 "sponsor_id": "F000062",
+                 "introduced_date": "2007-10-26",
+                 "cosponsors": "2",
+                 "committees": "Senate Banking, Housing, and Urban Affairs",
+                 "latest_major_action_date": "2007-10-26",
+                 "latest_major_action": "Referred to Senate committee. Status: Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+              },                           {
+                 "number": "S.J.RES.22",
+                 "url_number": "sjres22",
+                 "title": "A joint resolution providing for congressional disapproval under chapter  8 of title 5, United States Code, of the rule submitted by the Centers for Medicare &amp; Medicaid Services within the Department of Health and Human Services relating to Medicare coverage for the use of erythropoiesis stimulating agents in cancer and related neoplastic conditions.",
+                 "cosponsored_date": "2007-10-25",                 "sponsor_id": "B000243",
+                 "introduced_date": "2007-10-22",
+                 "cosponsors": "30",
+                 "committees": "Senate Finance",
+                 "latest_major_action_date": "2007-10-22",
+                 "latest_major_action": "Referred to Senate committee. Status: Read twice and referred to the Committee on Finance."
+              },                           {
+                 "number": "S.1895",
+                 "url_number": "s1895",
+                 "title": "A bill to aid and support pediatric involvement in reading and education.",
+                 "cosponsored_date": "2007-10-15",                 "sponsor_id": "R000122",
+                 "introduced_date": "2007-07-30",
+                 "cosponsors": "41",
+                 "committees": "Senate Health, Education, Labor, and Pensions",
+                 "latest_major_action_date": "2007-07-30",
+                 "latest_major_action": "Referred to Senate committee. Status: Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+              },                           {
+                 "number": "S.2159",
+                 "url_number": "s2159",
+                 "title": "A bill to require the Secretary of the Treasury to mint coins in commemoration of the 50th anniversary of the establishment of the National Aeronautics and Space Administration.",
+                 "cosponsored_date": "2007-10-15",                 "sponsor_id": "N000032",
+                 "introduced_date": "2007-10-15",
+                 "cosponsors": "70",
+                 "committees": "Senate Banking, Housing, and Urban Affairs",
+                 "latest_major_action_date": "2008-06-20",
+                 "latest_major_action": "Held at the desk."
+              },                           {
+                 "number": "S.2152",
+                 "url_number": "s2152",
+                 "title": "A bill to amend title XXI of the Social Security Act to reauthorize the State Children's Health Insurance Program through fiscal year 2012, and for other purposes.",
+                 "cosponsored_date": "2007-10-04",                 "sponsor_id": "M000355",
+                 "introduced_date": "2007-10-04",
+                 "cosponsors": "22",
+                 "committees": "",
+                 "latest_major_action_date": "2007-10-05",
+                 "latest_major_action": "Read the second time. Ordered Placed on Senate Legislative Calendar under General Orders. Calendar No. 412."
+              },                           {
+                 "number": "S.2131",
+                 "url_number": "s2131",
+                 "title": "A bill to designate the facility of the United States Postal Service located at Highway 49 South in Piney Woods, Mississippi, as the 'Laurence C. and Grace M. Jones Post Office Building'.",
+                 "cosponsored_date": "2007-10-03",                 "sponsor_id": "C000567",
+                 "introduced_date": "2007-10-03",
+                 "cosponsors": "1",
+                 "committees": "Senate Homeland Security and Governmental Affairs",
+                 "latest_major_action_date": "2007-12-04",
+                 "latest_major_action": "Senate floor actions. Status: Indefinitely postponed by Senate by Unanimous Consent.Note: For further action, see H.R.3233, which became Public Law 110-107 on 10/26/2007."
+              },                           {
+                 "number": "S.CON.RES.48",
+                 "url_number": "sconres48",
+                 "title": "A concurrent resolution expressing the sense of Congress regarding high level visits to the United States by democratically-elected officials of Taiwan.",
+                 "cosponsored_date": "2007-10-02",                 "sponsor_id": "J000177",
+                 "introduced_date": "2007-10-02",
+                 "cosponsors": "8",
+                 "committees": "Senate Foreign Relations",
+                 "latest_major_action_date": "2007-10-02",
+                 "latest_major_action": "Referred to Senate committee. Status: Referred to the Committee on Foreign Relations."
+              },                           {
+                 "number": "S.2128",
+                 "url_number": "s2128",
+                 "title": "A bill to make the moratorium on Internet access taxes and multiple and discriminatory taxes on electronic commerce permanent.",
+                 "cosponsored_date": "2007-10-02",                 "sponsor_id": "S001078",
+                 "introduced_date": "2007-10-02",
+                 "cosponsors": "9",
+                 "committees": "",
+                 "latest_major_action_date": "2007-10-03",
+                 "latest_major_action": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 401."
+              },                           {
+                 "number": "S.741",
+                 "url_number": "s741",
+                 "title": "A bill to amend the Magnuson-Stevens Fishery Conservation and Management Act to establish a grant program to ensure waterfront access for commercial fishermen, and for other purposes.",
+                 "cosponsored_date": "2007-10-01",                 "sponsor_id": "C001035",
+                 "introduced_date": "2007-03-01",
+                 "cosponsors": "2",
+                 "committees": "Senate Finance",
+                 "latest_major_action_date": "2007-03-01",
+                 "latest_major_action": "Referred to Senate committee. Status: Read twice and referred to the Committee on Finance."
+              },                           {
+                 "number": "S.RES.336",
+                 "url_number": "sres336",
+                 "title": "A resolution recognizing and honoring the 20 years of service and contributions of Dr. James Hadley Billington as Librarian of Congress.",
+                 "cosponsored_date": "2007-09-27",                 "sponsor_id": "H001016",
+                 "introduced_date": "2007-09-27",
+                 "cosponsors": "21",
+                 "committees": "",
+                 "latest_major_action_date": "2007-09-27",
+                 "latest_major_action": "Passed/agreed to in Senate. Status: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent."
+              },                           {
+                 "number": "S.1494",
+                 "url_number": "s1494",
+                 "title": "A bill to amend the Public Health Service Act to reauthorize the special diabetes programs for Type I diabetes and Indians under that Act.",
+                 "cosponsored_date": "2007-09-25",                 "sponsor_id": "D000407",
+                 "introduced_date": "2007-05-24",
+                 "cosponsors": "47",
+                 "committees": "Senate Health, Education, Labor, and Pensions",
+                 "latest_major_action_date": "2007-05-24",
+                 "latest_major_action": "Referred to Senate committee. Status: Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+              }             ]
+      }
+   ]
+}

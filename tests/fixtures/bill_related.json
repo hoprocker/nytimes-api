@@ -1,0 +1,23 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2009 The New York Times Company. All Rights Reserved.",
+   "results":[
+      {
+         "congress": "110",
+         "bill": "H.RES.1535",
+         "url_number": "hres1535",
+         "title": "Expressing disapproval of the Agreement Between the United States of America and the Republic of Iraq on the Withdrawal of United States Forces from Iraq and the Organization of Their Activities During Their Temporary Presence in Iraq, and for other purposes.",
+         "sponsor": "Barbara Lee",
+         "sponsor_id": "L000551",
+         "introduced_date": "December 10, 2008",
+         "cosponsors": "6",
+         "committees": "House Foreign Affairs",
+         "latest_major_action_date": "December 10, 2008",
+         "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on Foreign Affairs.",
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+                  "related_bills":[
+         ]
+      }
+   ]
+}

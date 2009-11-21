@@ -1,0 +1,3874 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2009 The New York Times Company. All Rights Reserved.",
+   "results":[
+      {
+         "congress": "110",
+         "chamber": "House",
+         "num_results": "386",
+         "offset": "0",
+         "members": [
+                          {
+                 "id": "P000583",
+                 "name": "Ron Paul",
+                 "party": "R",
+                 "state": "TX",
+                 "district": "14",                 "total_votes": "1875",
+                 "votes_with_party": "460",
+                 "party_votes_pct": "74.56",
+                 "rank": "1",
+                 "notes": "Presidential candidate"
+               },                           {
+                 "id": "S000522",
+                 "name": "Christopher H. Smith",
+                 "party": "R",
+                 "state": "NJ",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "36",
+                 "party_votes_pct": "76.67",
+                 "rank": "2",
+                 "notes": ""
+               },                           {
+                 "id": "J000285",
+                 "name": "Timothy V. Johnson",
+                 "party": "R",
+                 "state": "IL",
+                 "district": "15",                 "total_votes": "1875",
+                 "votes_with_party": "181",
+                 "party_votes_pct": "77.15",
+                 "rank": "3",
+                 "notes": ""
+               },                           {
+                 "id": "L000554",
+                 "name": "Frank A. LoBiondo",
+                 "party": "R",
+                 "state": "NJ",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "10",
+                 "party_votes_pct": "78.50",
+                 "rank": "4",
+                 "notes": ""
+               },                           {
+                 "id": "J000255",
+                 "name": "Walter B. Jones",
+                 "party": "R",
+                 "state": "NC",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "76",
+                 "party_votes_pct": "79.60",
+                 "rank": "5",
+                 "notes": ""
+               },                           {
+                 "id": "K000360",
+                 "name": "Mark Steven Kirk",
+                 "party": "R",
+                 "state": "IL",
+                 "district": "10",                 "total_votes": "1875",
+                 "votes_with_party": "62",
+                 "party_votes_pct": "80.03",
+                 "rank": "6",
+                 "notes": ""
+               },                           {
+                 "id": "C000243",
+                 "name": "Michael N. Castle",
+                 "party": "R",
+                 "state": "DE",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "8",
+                 "party_votes_pct": "80.08",
+                 "rank": "7",
+                 "notes": ""
+               },                           {
+                 "id": "F000444",
+                 "name": "Jeff Flake",
+                 "party": "R",
+                 "state": "AZ",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "57",
+                 "party_votes_pct": "82.07",
+                 "rank": "8",
+                 "notes": ""
+               },                           {
+                 "id": "R000578",
+                 "name": "Dave Reichert",
+                 "party": "R",
+                 "state": "WA",
+                 "district": "8",                 "total_votes": "1875",
+                 "votes_with_party": "32",
+                 "party_votes_pct": "82.09",
+                 "rank": "9",
+                 "notes": ""
+               },                           {
+                 "id": "G000549",
+                 "name": "Jim Gerlach",
+                 "party": "R",
+                 "state": "PA",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "64",
+                 "party_votes_pct": "82.44",
+                 "rank": "10",
+                 "notes": ""
+               },                           {
+                 "id": "M000472",
+                 "name": "John M. McHugh",
+                 "party": "R",
+                 "state": "NY",
+                 "district": "23",                 "total_votes": "1875",
+                 "votes_with_party": "28",
+                 "party_votes_pct": "82.57",
+                 "rank": "11",
+                 "notes": ""
+               },                           {
+                 "id": "C001074",
+                 "name": "Travis Childers",
+                 "party": "D",
+                 "state": "MS",
+                 "district": "1",                 "total_votes": "358",
+                 "votes_with_party": "2",
+                 "party_votes_pct": "82.58",
+                 "rank": "12",
+                 "notes": "elected to replace Roger Wicker"
+               },                           {
+                 "id": "L000553",
+                 "name": "Steven C. LaTourette",
+                 "party": "R",
+                 "state": "OH",
+                 "district": "14",                 "total_votes": "1875",
+                 "votes_with_party": "46",
+                 "party_votes_pct": "82.83",
+                 "rank": "13",
+                 "notes": ""
+               },                           {
+                 "id": "R000435",
+                 "name": "Ileana Ros-Lehtinen",
+                 "party": "R",
+                 "state": "FL",
+                 "district": "18",                 "total_votes": "1875",
+                 "votes_with_party": "63",
+                 "party_votes_pct": "82.95",
+                 "rank": "14",
+                 "notes": ""
+               },                           {
+                 "id": "M001151",
+                 "name": "Tim Murphy",
+                 "party": "R",
+                 "state": "PA",
+                 "district": "18",                 "total_votes": "1875",
+                 "votes_with_party": "42",
+                 "party_votes_pct": "83.20",
+                 "rank": "15",
+                 "notes": ""
+               },                           {
+                 "id": "B001252",
+                 "name": "John Barrow",
+                 "party": "D",
+                 "state": "GA",
+                 "district": "12",                 "total_votes": "1875",
+                 "votes_with_party": "26",
+                 "party_votes_pct": "83.34",
+                 "rank": "16",
+                 "notes": ""
+               },                           {
+                 "id": "D000604",
+                 "name": "Charlie Dent",
+                 "party": "R",
+                 "state": "PA",
+                 "district": "15",                 "total_votes": "1875",
+                 "votes_with_party": "5",
+                 "party_votes_pct": "83.69",
+                 "rank": "17",
+                 "notes": ""
+               },                           {
+                 "id": "E000092",
+                 "name": "Vernon J. Ehlers",
+                 "party": "R",
+                 "state": "MI",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "45",
+                 "party_votes_pct": "83.77",
+                 "rank": "18",
+                 "notes": ""
+               },                           {
+                 "id": "P000585",
+                 "name": "Todd R. Platts",
+                 "party": "R",
+                 "state": "PA",
+                 "district": "19",                 "total_votes": "1875",
+                 "votes_with_party": "47",
+                 "party_votes_pct": "84.03",
+                 "rank": "19",
+                 "notes": ""
+               },                           {
+                 "id": "M001146",
+                 "name": "Jim Marshall",
+                 "party": "D",
+                 "state": "GA",
+                 "district": "8",                 "total_votes": "1875",
+                 "votes_with_party": "129",
+                 "party_votes_pct": "85.22",
+                 "rank": "20",
+                 "notes": ""
+               },                           {
+                 "id": "E000172",
+                 "name": "Jo Ann Emerson",
+                 "party": "R",
+                 "state": "MO",
+                 "district": "8",                 "total_votes": "1875",
+                 "votes_with_party": "48",
+                 "party_votes_pct": "85.33",
+                 "rank": "21",
+                 "notes": ""
+               },                           {
+                 "id": "S001171",
+                 "name": "Heath Shuler",
+                 "party": "D",
+                 "state": "NC",
+                 "district": "11",                 "total_votes": "1875",
+                 "votes_with_party": "71",
+                 "party_votes_pct": "85.37",
+                 "rank": "22",
+                 "notes": ""
+               },                           {
+                 "id": "T000074",
+                 "name": "Gene Taylor",
+                 "party": "D",
+                 "state": "MS",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "57",
+                 "party_votes_pct": "85.42",
+                 "rank": "23",
+                 "notes": ""
+               },                           {
+                 "id": "D000607",
+                 "name": "Joe Donnelly",
+                 "party": "D",
+                 "state": "IN",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "7",
+                 "party_votes_pct": "85.76",
+                 "rank": "24",
+                 "notes": ""
+               },                           {
+                 "id": "H001030",
+                 "name": "Baron P. Hill",
+                 "party": "D",
+                 "state": "IN",
+                 "district": "9",                 "total_votes": "1875",
+                 "votes_with_party": "40",
+                 "party_votes_pct": "85.99",
+                 "rank": "25",
+                 "notes": ""
+               },                           {
+                 "id": "Y000033",
+                 "name": "Don Young",
+                 "party": "R",
+                 "state": "AK",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "317",
+                 "party_votes_pct": "86.14",
+                 "rank": "26",
+                 "notes": ""
+               },                           {
+                 "id": "F000372",
+                 "name": "Rodney Frelinghuysen",
+                 "party": "R",
+                 "state": "NJ",
+                 "district": "11",                 "total_votes": "1875",
+                 "votes_with_party": "19",
+                 "party_votes_pct": "86.26",
+                 "rank": "27",
+                 "notes": ""
+               },                           {
+                 "id": "C001047",
+                 "name": "Shelley Moore Capito",
+                 "party": "R",
+                 "state": "WV",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "25",
+                 "party_votes_pct": "86.27",
+                 "rank": "28",
+                 "notes": ""
+               },                           {
+                 "id": "F000449",
+                 "name": "Jeff Fortenberry",
+                 "party": "R",
+                 "state": "NE",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "63",
+                 "party_votes_pct": "86.37",
+                 "rank": "29",
+                 "notes": ""
+               },                           {
+                 "id": "D000533",
+                 "name": "John J. Duncan Jr.",
+                 "party": "R",
+                 "state": "TN",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "13",
+                 "party_votes_pct": "86.41",
+                 "rank": "30",
+                 "notes": ""
+               },                           {
+                 "id": "T000458",
+                 "name": "Thomas G. Tancredo",
+                 "party": "R",
+                 "state": "CO",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "457",
+                 "party_votes_pct": "86.46",
+                 "rank": "31",
+                 "notes": "Announced retirement at end of 110th Congress"
+               },                           {
+                 "id": "D000299",
+                 "name": "Lincoln Diaz-Balart",
+                 "party": "R",
+                 "state": "FL",
+                 "district": "21",                 "total_votes": "1875",
+                 "votes_with_party": "68",
+                 "party_votes_pct": "86.50",
+                 "rank": "32",
+                 "notes": ""
+               },                           {
+                 "id": "W000672",
+                 "name": "Frank R. Wolf",
+                 "party": "R",
+                 "state": "VA",
+                 "district": "10",                 "total_votes": "1875",
+                 "votes_with_party": "29",
+                 "party_votes_pct": "86.73",
+                 "rank": "33",
+                 "notes": ""
+               },                           {
+                 "id": "C001064",
+                 "name": "John Campbell",
+                 "party": "R",
+                 "state": "CA",
+                 "district": "48",                 "total_votes": "1875",
+                 "votes_with_party": "133",
+                 "party_votes_pct": "86.91",
+                 "rank": "34",
+                 "notes": ""
+               },                           {
+                 "id": "A000362",
+                 "name": "Jason Altmire",
+                 "party": "D",
+                 "state": "PA",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "0",
+                 "party_votes_pct": "86.93",
+                 "rank": "35",
+                 "notes": ""
+               },                           {
+                 "id": "K000210",
+                 "name": "Peter T. King",
+                 "party": "R",
+                 "state": "NY",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "57",
+                 "party_votes_pct": "86.96",
+                 "rank": "36",
+                 "notes": ""
+               },                           {
+                 "id": "E000289",
+                 "name": "Brad Ellsworth",
+                 "party": "D",
+                 "state": "IN",
+                 "district": "8",                 "total_votes": "1875",
+                 "votes_with_party": "8",
+                 "party_votes_pct": "87.09",
+                 "rank": "37",
+                 "notes": ""
+               },                           {
+                 "id": "M001142",
+                 "name": "Jim Matheson",
+                 "party": "D",
+                 "state": "UT",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "30",
+                 "party_votes_pct": "87.10",
+                 "rank": "38",
+                 "notes": ""
+               },                           {
+                 "id": "D000600",
+                 "name": "Mario Diaz-Balart",
+                 "party": "R",
+                 "state": "FL",
+                 "district": "25",                 "total_votes": "1875",
+                 "votes_with_party": "50",
+                 "party_votes_pct": "87.18",
+                 "rank": "39",
+                 "notes": ""
+               },                           {
+                 "id": "B001232",
+                 "name": "Judy Biggert",
+                 "party": "R",
+                 "state": "IL",
+                 "district": "13",                 "total_votes": "1875",
+                 "votes_with_party": "13",
+                 "party_votes_pct": "87.33",
+                 "rank": "40",
+                 "notes": ""
+               },                           {
+                 "id": "P000265",
+                 "name": "Tom Petri",
+                 "party": "R",
+                 "state": "WI",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "7",
+                 "party_votes_pct": "87.42",
+                 "rank": "41",
+                 "notes": ""
+               },                           {
+                 "id": "C001065",
+                 "name": "Christopher Carney",
+                 "party": "D",
+                 "state": "PA",
+                 "district": "10",                 "total_votes": "1875",
+                 "votes_with_party": "63",
+                 "party_votes_pct": "87.47",
+                 "rank": "42",
+                 "notes": ""
+               },                           {
+                 "id": "T000463",
+                 "name": "Michael R. Turner",
+                 "party": "R",
+                 "state": "OH",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "39",
+                 "party_votes_pct": "87.58",
+                 "rank": "43",
+                 "notes": ""
+               },                           {
+                 "id": "B001262",
+                 "name": "Paul Broun",
+                 "party": "R",
+                 "state": "GA",
+                 "district": "10",                 "total_votes": "1150",
+                 "votes_with_party": "29",
+                 "party_votes_pct": "87.69",
+                 "rank": "44",
+                 "notes": "Elected to replace Norwood"
+               },                           {
+                 "id": "S001148",
+                 "name": "Mike Simpson",
+                 "party": "R",
+                 "state": "ID",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "96",
+                 "party_votes_pct": "87.69",
+                 "rank": "45",
+                 "notes": ""
+               },                           {
+                 "id": "M001167",
+                 "name": "Harry E. Mitchell",
+                 "party": "D",
+                 "state": "AZ",
+                 "district": "5",                 "total_votes": "1875",
+                 "votes_with_party": "29",
+                 "party_votes_pct": "87.70",
+                 "rank": "46",
+                 "notes": ""
+               },                           {
+                 "id": "K000220",
+                 "name": "Jack Kingston",
+                 "party": "R",
+                 "state": "GA",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "73",
+                 "party_votes_pct": "87.85",
+                 "rank": "47",
+                 "notes": ""
+               },                           {
+                 "id": "S000275",
+                 "name": "John Shadegg",
+                 "party": "R",
+                 "state": "AZ",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "41",
+                 "party_votes_pct": "87.90",
+                 "rank": "48",
+                 "notes": ""
+               },                           {
+                 "id": "M001150",
+                 "name": "Candice S. Miller",
+                 "party": "R",
+                 "state": "MI",
+                 "district": "10",                 "total_votes": "1875",
+                 "votes_with_party": "11",
+                 "party_votes_pct": "87.98",
+                 "rank": "49",
+                 "notes": ""
+               },                           {
+                 "id": "Y000031",
+                 "name": "C. W. Bill Young",
+                 "party": "R",
+                 "state": "FL",
+                 "district": "10",                 "total_votes": "1875",
+                 "votes_with_party": "82",
+                 "party_votes_pct": "88.01",
+                 "rank": "50",
+                 "notes": ""
+               },                           {
+                 "id": "P000592",
+                 "name": "Ted Poe",
+                 "party": "R",
+                 "state": "TX",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "106",
+                 "party_votes_pct": "88.02",
+                 "rank": "51",
+                 "notes": ""
+               },                           {
+                 "id": "F000448",
+                 "name": "Trent Franks",
+                 "party": "R",
+                 "state": "AZ",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "27",
+                 "party_votes_pct": "88.31",
+                 "rank": "52",
+                 "notes": ""
+               },                           {
+                 "id": "B001247",
+                 "name": "Ginny Brown-Waite",
+                 "party": "R",
+                 "state": "FL",
+                 "district": "5",                 "total_votes": "1875",
+                 "votes_with_party": "180",
+                 "party_votes_pct": "88.38",
+                 "rank": "53",
+                 "notes": ""
+               },                           {
+                 "id": "W000413",
+                 "name": "Edward Whitfield",
+                 "party": "R",
+                 "state": "KY",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "71",
+                 "party_votes_pct": "88.47",
+                 "rank": "54",
+                 "notes": ""
+               },                           {
+                 "id": "S000244",
+                 "name": "F. James Sensenbrenner",
+                 "party": "R",
+                 "state": "WI",
+                 "district": "5",                 "total_votes": "1875",
+                 "votes_with_party": "36",
+                 "party_votes_pct": "88.47",
+                 "rank": "55",
+                 "notes": ""
+               },                           {
+                 "id": "H001036",
+                 "name": "Jeb Hensarling",
+                 "party": "R",
+                 "state": "TX",
+                 "district": "5",                 "total_votes": "1875",
+                 "votes_with_party": "32",
+                 "party_votes_pct": "88.55",
+                 "rank": "56",
+                 "notes": ""
+               },                           {
+                 "id": "R000409",
+                 "name": "Dana Rohrabacher",
+                 "party": "R",
+                 "state": "CA",
+                 "district": "46",                 "total_votes": "1875",
+                 "votes_with_party": "118",
+                 "party_votes_pct": "88.62",
+                 "rank": "57",
+                 "notes": ""
+               },                           {
+                 "id": "U000031",
+                 "name": "Fred Upton",
+                 "party": "R",
+                 "state": "MI",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "10",
+                 "party_votes_pct": "88.69",
+                 "rank": "58",
+                 "notes": ""
+               },                           {
+                 "id": "W000796",
+                 "name": "Lynn Westmoreland",
+                 "party": "R",
+                 "state": "GA",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "152",
+                 "party_votes_pct": "88.86",
+                 "rank": "59",
+                 "notes": ""
+               },                           {
+                 "id": "L000274",
+                 "name": "Jerry Lewis",
+                 "party": "R",
+                 "state": "CA",
+                 "district": "41",                 "total_votes": "1875",
+                 "votes_with_party": "63",
+                 "party_votes_pct": "88.91",
+                 "rank": "60",
+                 "notes": ""
+               },                           {
+                 "id": "W000791",
+                 "name": "Greg Walden",
+                 "party": "R",
+                 "state": "OR",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "46",
+                 "party_votes_pct": "89.01",
+                 "rank": "61",
+                 "notes": ""
+               },                           {
+                 "id": "B001254",
+                 "name": "Dan Boren",
+                 "party": "D",
+                 "state": "OK",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "72",
+                 "party_votes_pct": "89.07",
+                 "rank": "62",
+                 "notes": ""
+               },                           {
+                 "id": "G000548",
+                 "name": "Scott Garrett",
+                 "party": "R",
+                 "state": "NJ",
+                 "district": "5",                 "total_votes": "1875",
+                 "votes_with_party": "30",
+                 "party_votes_pct": "89.11",
+                 "rank": "63",
+                 "notes": ""
+               },                           {
+                 "id": "B001260",
+                 "name": "Vern Buchanan",
+                 "party": "R",
+                 "state": "FL",
+                 "district": "13",                 "total_votes": "1875",
+                 "votes_with_party": "23",
+                 "party_votes_pct": "89.15",
+                 "rank": "64",
+                 "notes": ""
+               },                           {
+                 "id": "F000450",
+                 "name": "Virginia Foxx",
+                 "party": "R",
+                 "state": "NC",
+                 "district": "5",                 "total_votes": "1875",
+                 "votes_with_party": "3",
+                 "party_votes_pct": "89.21",
+                 "rank": "65",
+                 "notes": ""
+               },                           {
+                 "id": "I000023",
+                 "name": "Bob Inglis",
+                 "party": "R",
+                 "state": "SC",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "20",
+                 "party_votes_pct": "89.22",
+                 "rank": "66",
+                 "notes": ""
+               },                           {
+                 "id": "M001147",
+                 "name": "Thaddeus McCotter",
+                 "party": "R",
+                 "state": "MI",
+                 "district": "11",                 "total_votes": "1875",
+                 "votes_with_party": "23",
+                 "party_votes_pct": "89.25",
+                 "rank": "67",
+                 "notes": ""
+               },                           {
+                 "id": "M000934",
+                 "name": "Jerry Moran",
+                 "party": "R",
+                 "state": "KS",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "56",
+                 "party_votes_pct": "89.28",
+                 "rank": "68",
+                 "notes": ""
+               },                           {
+                 "id": "L000564",
+                 "name": "Doug Lamborn",
+                 "party": "R",
+                 "state": "CO",
+                 "district": "5",                 "total_votes": "1875",
+                 "votes_with_party": "18",
+                 "party_votes_pct": "89.34",
+                 "rank": "69",
+                 "notes": ""
+               },                           {
+                 "id": "B001239",
+                 "name": "J. Gresham Barrett",
+                 "party": "R",
+                 "state": "SC",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "39",
+                 "party_votes_pct": "89.43",
+                 "rank": "70",
+                 "notes": ""
+               },                           {
+                 "id": "K000362",
+                 "name": "Steve King",
+                 "party": "R",
+                 "state": "IA",
+                 "district": "5",                 "total_votes": "1875",
+                 "votes_with_party": "39",
+                 "party_votes_pct": "89.49",
+                 "rank": "71",
+                 "notes": ""
+               },                           {
+                 "id": "S000364",
+                 "name": "John Shimkus",
+                 "party": "R",
+                 "state": "IL",
+                 "district": "19",                 "total_votes": "1875",
+                 "votes_with_party": "105",
+                 "party_votes_pct": "89.49",
+                 "rank": "72",
+                 "notes": ""
+               },                           {
+                 "id": "D000168",
+                 "name": "Nathan Deal",
+                 "party": "R",
+                 "state": "GA",
+                 "district": "9",                 "total_votes": "1875",
+                 "votes_with_party": "88",
+                 "party_votes_pct": "89.54",
+                 "rank": "73",
+                 "notes": ""
+               },                           {
+                 "id": "L000321",
+                 "name": "John Linder",
+                 "party": "R",
+                 "state": "GA",
+                 "district": "7",                 "total_votes": "1875",
+                 "votes_with_party": "85",
+                 "party_votes_pct": "89.55",
+                 "rank": "74",
+                 "notes": ""
+               },                           {
+                 "id": "B001253",
+                 "name": "Melissa Bean",
+                 "party": "D",
+                 "state": "IL",
+                 "district": "8",                 "total_votes": "1875",
+                 "votes_with_party": "82",
+                 "party_votes_pct": "89.57",
+                 "rank": "75",
+                 "notes": ""
+               },                           {
+                 "id": "R000487",
+                 "name": "Ed Royce",
+                 "party": "R",
+                 "state": "CA",
+                 "district": "40",                 "total_votes": "1875",
+                 "votes_with_party": "48",
+                 "party_votes_pct": "89.60",
+                 "rank": "76",
+                 "notes": ""
+               },                           {
+                 "id": "G000280",
+                 "name": "Virgil H. Goode",
+                 "party": "R",
+                 "state": "VA",
+                 "district": "5",                 "total_votes": "1875",
+                 "votes_with_party": "50",
+                 "party_votes_pct": "89.64",
+                 "rank": "77",
+                 "notes": ""
+               },                           {
+                 "id": "S000822",
+                 "name": "Cliff Stearns",
+                 "party": "R",
+                 "state": "FL",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "16",
+                 "party_votes_pct": "89.73",
+                 "rank": "78",
+                 "notes": ""
+               },                           {
+                 "id": "B000208",
+                 "name": "Roscoe G. Bartlett",
+                 "party": "R",
+                 "state": "MD",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "19",
+                 "party_votes_pct": "89.76",
+                 "rank": "79",
+                 "notes": ""
+               },                           {
+                 "id": "C000754",
+                 "name": "Jim Cooper",
+                 "party": "D",
+                 "state": "TN",
+                 "district": "5",                 "total_votes": "1875",
+                 "votes_with_party": "56",
+                 "party_votes_pct": "89.77",
+                 "rank": "80",
+                 "notes": ""
+               },                           {
+                 "id": "K000336",
+                 "name": "Dennis J. Kucinich",
+                 "party": "D",
+                 "state": "OH",
+                 "district": "10",                 "total_votes": "1875",
+                 "votes_with_party": "151",
+                 "party_votes_pct": "89.79",
+                 "rank": "81",
+                 "notes": ""
+               },                           {
+                 "id": "P000587",
+                 "name": "Mike Pence",
+                 "party": "R",
+                 "state": "IN",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "111",
+                 "party_votes_pct": "89.80",
+                 "rank": "82",
+                 "notes": ""
+               },                           {
+                 "id": "G000552",
+                 "name": "Louie Gohmert",
+                 "party": "R",
+                 "state": "TX",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "114",
+                 "party_votes_pct": "89.84",
+                 "rank": "83",
+                 "notes": ""
+               },                           {
+                 "id": "J000289",
+                 "name": "Jim Jordan",
+                 "party": "R",
+                 "state": "OH",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "22",
+                 "party_votes_pct": "89.85",
+                 "rank": "84",
+                 "notes": ""
+               },                           {
+                 "id": "S001143",
+                 "name": "Mark Souder",
+                 "party": "R",
+                 "state": "IN",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "124",
+                 "party_votes_pct": "89.95",
+                 "rank": "85",
+                 "notes": ""
+               },                           {
+                 "id": "G000550",
+                 "name": "Phil Gingrey",
+                 "party": "R",
+                 "state": "GA",
+                 "district": "11",                 "total_votes": "1875",
+                 "votes_with_party": "56",
+                 "party_votes_pct": "89.99",
+                 "rank": "86",
+                 "notes": ""
+               },                           {
+                 "id": "C000556",
+                 "name": "Howard Coble",
+                 "party": "R",
+                 "state": "NC",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "83",
+                 "party_votes_pct": "90.01",
+                 "rank": "87",
+                 "notes": ""
+               },                           {
+                 "id": "M001144",
+                 "name": "Jeff Miller",
+                 "party": "R",
+                 "state": "FL",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "86",
+                 "party_votes_pct": "90.11",
+                 "rank": "88",
+                 "notes": ""
+               },                           {
+                 "id": "M001158",
+                 "name": "Kenny Marchant",
+                 "party": "R",
+                 "state": "TX",
+                 "district": "24",                 "total_votes": "1875",
+                 "votes_with_party": "170",
+                 "party_votes_pct": "90.15",
+                 "rank": "89",
+                 "notes": ""
+               },                           {
+                 "id": "C001062",
+                 "name": "K. Michael Conaway",
+                 "party": "R",
+                 "state": "TX",
+                 "district": "11",                 "total_votes": "1875",
+                 "votes_with_party": "85",
+                 "party_votes_pct": "90.17",
+                 "rank": "90",
+                 "notes": ""
+               },                           {
+                 "id": "T000238",
+                 "name": "William M. Thornberry",
+                 "party": "R",
+                 "state": "TX",
+                 "district": "13",                 "total_votes": "1875",
+                 "votes_with_party": "33",
+                 "party_votes_pct": "90.17",
+                 "rank": "91",
+                 "notes": ""
+               },                           {
+                 "id": "B001228",
+                 "name": "Mary Bono Mack",
+                 "party": "R",
+                 "state": "CA",
+                 "district": "45",                 "total_votes": "1875",
+                 "votes_with_party": "100",
+                 "party_votes_pct": "90.20",
+                 "rank": "92",
+                 "notes": ""
+               },                           {
+                 "id": "T000459",
+                 "name": "Lee Terry",
+                 "party": "R",
+                 "state": "NE",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "59",
+                 "party_votes_pct": "90.20",
+                 "rank": "93",
+                 "notes": ""
+               },                           {
+                 "id": "B001248",
+                 "name": "Michael C. Burgess",
+                 "party": "R",
+                 "state": "TX",
+                 "district": "26",                 "total_votes": "1875",
+                 "votes_with_party": "84",
+                 "party_votes_pct": "90.28",
+                 "rank": "94",
+                 "notes": ""
+               },                           {
+                 "id": "L000111",
+                 "name": "Tom Latham",
+                 "party": "R",
+                 "state": "IA",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "16",
+                 "party_votes_pct": "90.32",
+                 "rank": "95",
+                 "notes": ""
+               },                           {
+                 "id": "M001155",
+                 "name": "Connie Mack",
+                 "party": "R",
+                 "state": "FL",
+                 "district": "14",                 "total_votes": "1875",
+                 "votes_with_party": "94",
+                 "party_votes_pct": "90.34",
+                 "rank": "96",
+                 "notes": ""
+               },                           {
+                 "id": "R000575",
+                 "name": "Mike D. Rogers",
+                 "party": "R",
+                 "state": "AL",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "37",
+                 "party_votes_pct": "90.48",
+                 "rank": "97",
+                 "notes": ""
+               },                           {
+                 "id": "J000174",
+                 "name": "Sam Johnson",
+                 "party": "R",
+                 "state": "TX",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "200",
+                 "party_votes_pct": "90.51",
+                 "rank": "98",
+                 "notes": ""
+               },                           {
+                 "id": "G000546",
+                 "name": "Sam Graves",
+                 "party": "R",
+                 "state": "MO",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "78",
+                 "party_votes_pct": "90.54",
+                 "rank": "99",
+                 "notes": ""
+               },                           {
+                 "id": "B001203",
+                 "name": "Steve Buyer",
+                 "party": "R",
+                 "state": "IN",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "246",
+                 "party_votes_pct": "90.55",
+                 "rank": "100",
+                 "notes": ""
+               },                           {
+                 "id": "B000213",
+                 "name": "Joe L. Barton",
+                 "party": "R",
+                 "state": "TX",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "60",
+                 "party_votes_pct": "90.63",
+                 "rank": "101",
+                 "notes": ""
+               },                           {
+                 "id": "H001041",
+                 "name": "Dean Heller",
+                 "party": "R",
+                 "state": "NV",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "30",
+                 "party_votes_pct": "90.68",
+                 "rank": "102",
+                 "notes": ""
+               },                           {
+                 "id": "P000591",
+                 "name": "Tom Price",
+                 "party": "R",
+                 "state": "GA",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "18",
+                 "party_votes_pct": "90.68",
+                 "rank": "103",
+                 "notes": ""
+               },                           {
+                 "id": "R000570",
+                 "name": "Paul D. Ryan",
+                 "party": "R",
+                 "state": "WI",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "36",
+                 "party_votes_pct": "90.70",
+                 "rank": "104",
+                 "notes": ""
+               },                           {
+                 "id": "B000461",
+                 "name": "Brian P. Bilbray",
+                 "party": "R",
+                 "state": "CA",
+                 "district": "50",                 "total_votes": "1875",
+                 "votes_with_party": "59",
+                 "party_votes_pct": "90.75",
+                 "rank": "105",
+                 "notes": ""
+               },                           {
+                 "id": "B001255",
+                 "name": "Charles Boustany Jr.",
+                 "party": "R",
+                 "state": "LA",
+                 "district": "7",                 "total_votes": "1875",
+                 "votes_with_party": "34",
+                 "party_votes_pct": "90.77",
+                 "rank": "106",
+                 "notes": ""
+               },                           {
+                 "id": "L000517",
+                 "name": "Dan Lungren",
+                 "party": "R",
+                 "state": "CA",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "46",
+                 "party_votes_pct": "90.92",
+                 "rank": "107",
+                 "notes": ""
+               },                           {
+                 "id": "M001138",
+                 "name": "Donald Manzullo",
+                 "party": "R",
+                 "state": "IL",
+                 "district": "16",                 "total_votes": "1875",
+                 "votes_with_party": "33",
+                 "party_votes_pct": "90.93",
+                 "rank": "108",
+                 "notes": ""
+               },                           {
+                 "id": "G000554",
+                 "name": "Gabrielle Giffords",
+                 "party": "D",
+                 "state": "AZ",
+                 "district": "8",                 "total_votes": "1875",
+                 "votes_with_party": "54",
+                 "party_votes_pct": "90.94",
+                 "rank": "109",
+                 "notes": ""
+               },                           {
+                 "id": "B001243",
+                 "name": "Marsha Blackburn",
+                 "party": "R",
+                 "state": "TN",
+                 "district": "7",                 "total_votes": "1875",
+                 "votes_with_party": "61",
+                 "party_votes_pct": "90.96",
+                 "rank": "110",
+                 "notes": ""
+               },                           {
+                 "id": "A000358",
+                 "name": "Todd Akin",
+                 "party": "R",
+                 "state": "MO",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "36",
+                 "party_votes_pct": "91.08",
+                 "rank": "111",
+                 "notes": ""
+               },                           {
+                 "id": "B001149",
+                 "name": "Dan Burton",
+                 "party": "R",
+                 "state": "IN",
+                 "district": "5",                 "total_votes": "1875",
+                 "votes_with_party": "77",
+                 "party_votes_pct": "91.16",
+                 "rank": "112",
+                 "notes": ""
+               },                           {
+                 "id": "A000361",
+                 "name": "Rodney Alexander",
+                 "party": "R",
+                 "state": "LA",
+                 "district": "5",                 "total_votes": "1875",
+                 "votes_with_party": "103",
+                 "party_votes_pct": "91.20",
+                 "rank": "113",
+                 "notes": ""
+               },                           {
+                 "id": "M000485",
+                 "name": "Mike McIntyre",
+                 "party": "D",
+                 "state": "NC",
+                 "district": "7",                 "total_votes": "1875",
+                 "votes_with_party": "9",
+                 "party_votes_pct": "91.21",
+                 "rank": "114",
+                 "notes": ""
+               },                           {
+                 "id": "N000182",
+                 "name": "Randy Neugebauer",
+                 "party": "R",
+                 "state": "TX",
+                 "district": "19",                 "total_votes": "1875",
+                 "votes_with_party": "53",
+                 "party_votes_pct": "91.22",
+                 "rank": "115",
+                 "notes": ""
+               },                           {
+                 "id": "T000260",
+                 "name": "Todd Tiahrt",
+                 "party": "R",
+                 "state": "KS",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "86",
+                 "party_votes_pct": "91.28",
+                 "rank": "116",
+                 "notes": ""
+               },                           {
+                 "id": "C001048",
+                 "name": "John Culberson",
+                 "party": "R",
+                 "state": "TX",
+                 "district": "7",                 "total_votes": "1875",
+                 "votes_with_party": "142",
+                 "party_votes_pct": "91.29",
+                 "rank": "117",
+                 "notes": ""
+               },                           {
+                 "id": "C001046",
+                 "name": "Eric Cantor",
+                 "party": "R",
+                 "state": "VA",
+                 "district": "7",                 "total_votes": "1875",
+                 "votes_with_party": "96",
+                 "party_votes_pct": "91.29",
+                 "rank": "118",
+                 "notes": ""
+               },                           {
+                 "id": "C001051",
+                 "name": "John Carter",
+                 "party": "R",
+                 "state": "TX",
+                 "district": "31",                 "total_votes": "1875",
+                 "votes_with_party": "100",
+                 "party_votes_pct": "91.32",
+                 "rank": "119",
+                 "notes": ""
+               },                           {
+                 "id": "S000250",
+                 "name": "Pete Sessions",
+                 "party": "R",
+                 "state": "TX",
+                 "district": "32",                 "total_votes": "1875",
+                 "votes_with_party": "190",
+                 "party_votes_pct": "91.39",
+                 "rank": "120",
+                 "notes": ""
+               },                           {
+                 "id": "B001257",
+                 "name": "Gus Bilirakis",
+                 "party": "R",
+                 "state": "FL",
+                 "district": "9",                 "total_votes": "1875",
+                 "votes_with_party": "18",
+                 "party_votes_pct": "91.44",
+                 "rank": "121",
+                 "notes": ""
+               },                           {
+                 "id": "B001245",
+                 "name": "Madeleine Z. Bordallo",
+                 "party": "D",
+                 "state": "GU",
+                 "district": "79",                 "total_votes": "471",
+                 "votes_with_party": "120",
+                 "party_votes_pct": "91.45",
+                 "rank": "122",
+                 "notes": ""
+               },                           {
+                 "id": "M001161",
+                 "name": "Charlie Melancon",
+                 "party": "D",
+                 "state": "LA",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "61",
+                 "party_votes_pct": "91.46",
+                 "rank": "123",
+                 "notes": ""
+               },                           {
+                 "id": "H000676",
+                 "name": "Peter Hoekstra",
+                 "party": "R",
+                 "state": "MI",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "48",
+                 "party_votes_pct": "91.46",
+                 "rank": "124",
+                 "notes": ""
+               },                           {
+                 "id": "R000571",
+                 "name": "Denny Rehberg",
+                 "party": "R",
+                 "state": "MT",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "4",
+                 "party_votes_pct": "91.50",
+                 "rank": "125",
+                 "notes": ""
+               },                           {
+                 "id": "B001256",
+                 "name": "Michele Bachmann",
+                 "party": "R",
+                 "state": "MN",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "33",
+                 "party_votes_pct": "91.53",
+                 "rank": "126",
+                 "notes": ""
+               },                           {
+                 "id": "B000755",
+                 "name": "Kevin Brady",
+                 "party": "R",
+                 "state": "TX",
+                 "district": "8",                 "total_votes": "1875",
+                 "votes_with_party": "121",
+                 "party_votes_pct": "91.56",
+                 "rank": "127",
+                 "notes": ""
+               },                           {
+                 "id": "P000258",
+                 "name": "Collin C. Peterson",
+                 "party": "D",
+                 "state": "MN",
+                 "district": "7",                 "total_votes": "1875",
+                 "votes_with_party": "51",
+                 "party_votes_pct": "91.61",
+                 "rank": "128",
+                 "notes": ""
+               },                           {
+                 "id": "M001156",
+                 "name": "Patrick T. McHenry",
+                 "party": "R",
+                 "state": "NC",
+                 "district": "10",                 "total_votes": "1875",
+                 "votes_with_party": "85",
+                 "party_votes_pct": "91.62",
+                 "rank": "129",
+                 "notes": ""
+               },                           {
+                 "id": "T000462",
+                 "name": "Pat Tiberi",
+                 "party": "R",
+                 "state": "OH",
+                 "district": "12",                 "total_votes": "1875",
+                 "votes_with_party": "36",
+                 "party_votes_pct": "91.63",
+                 "rank": "130",
+                 "notes": ""
+               },                           {
+                 "id": "A000055",
+                 "name": "Robert B. Aderholt",
+                 "party": "R",
+                 "state": "AL",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "51",
+                 "party_votes_pct": "91.67",
+                 "rank": "131",
+                 "notes": ""
+               },                           {
+                 "id": "T000038",
+                 "name": "John Tanner",
+                 "party": "D",
+                 "state": "TN",
+                 "district": "8",                 "total_votes": "1875",
+                 "votes_with_party": "65",
+                 "party_votes_pct": "91.71",
+                 "rank": "132",
+                 "notes": ""
+               },                           {
+                 "id": "M001134",
+                 "name": "Sue Myrick",
+                 "party": "R",
+                 "state": "NC",
+                 "district": "9",                 "total_votes": "1875",
+                 "votes_with_party": "122",
+                 "party_votes_pct": "91.79",
+                 "rank": "133",
+                 "notes": ""
+               },                           {
+                 "id": "S001173",
+                 "name": "Zack Space",
+                 "party": "D",
+                 "state": "OH",
+                 "district": "18",                 "total_votes": "1875",
+                 "votes_with_party": "61",
+                 "party_votes_pct": "91.79",
+                 "rank": "134",
+                 "notes": ""
+               },                           {
+                 "id": "R000004",
+                 "name": "George P. Radanovich",
+                 "party": "R",
+                 "state": "CA",
+                 "district": "19",                 "total_votes": "1875",
+                 "votes_with_party": "227",
+                 "party_votes_pct": "91.81",
+                 "rank": "135",
+                 "notes": ""
+               },                           {
+                 "id": "S001155",
+                 "name": "John Sullivan",
+                 "party": "R",
+                 "state": "OK",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "165",
+                 "party_votes_pct": "91.81",
+                 "rank": "136",
+                 "notes": ""
+               },                           {
+                 "id": "H000067",
+                 "name": "Ralph M. Hall",
+                 "party": "R",
+                 "state": "TX",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "45",
+                 "party_votes_pct": "91.86",
+                 "rank": "137",
+                 "notes": ""
+               },                           {
+                 "id": "I000056",
+                 "name": "Darrell Issa",
+                 "party": "R",
+                 "state": "CA",
+                 "district": "49",                 "total_votes": "1875",
+                 "votes_with_party": "79",
+                 "party_votes_pct": "91.87",
+                 "rank": "138",
+                 "notes": ""
+               },                           {
+                 "id": "B001235",
+                 "name": "Henry E. Brown Jr.",
+                 "party": "R",
+                 "state": "SC",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "53",
+                 "party_votes_pct": "91.88",
+                 "rank": "139",
+                 "notes": ""
+               },                           {
+                 "id": "B001250",
+                 "name": "Rob Bishop",
+                 "party": "R",
+                 "state": "UT",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "186",
+                 "party_votes_pct": "91.89",
+                 "rank": "140",
+                 "notes": ""
+               },                           {
+                 "id": "R000572",
+                 "name": "Mike Rogers",
+                 "party": "R",
+                 "state": "MI",
+                 "district": "8",                 "total_votes": "1875",
+                 "votes_with_party": "36",
+                 "party_votes_pct": "91.90",
+                 "rank": "141",
+                 "notes": ""
+               },                           {
+                 "id": "H000528",
+                 "name": "Wally Herger",
+                 "party": "R",
+                 "state": "CA",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "85",
+                 "party_votes_pct": "91.90",
+                 "rank": "142",
+                 "notes": ""
+               },                           {
+                 "id": "K000363",
+                 "name": "John Kline",
+                 "party": "R",
+                 "state": "MN",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "18",
+                 "party_votes_pct": "91.98",
+                 "rank": "143",
+                 "notes": ""
+               },                           {
+                 "id": "W000795",
+                 "name": "Joe Wilson",
+                 "party": "R",
+                 "state": "SC",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "23",
+                 "party_votes_pct": "92.06",
+                 "rank": "144",
+                 "notes": ""
+               },                           {
+                 "id": "D000599",
+                 "name": "Lincoln Davis",
+                 "party": "D",
+                 "state": "TN",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "74",
+                 "party_votes_pct": "92.12",
+                 "rank": "145",
+                 "notes": ""
+               },                           {
+                 "id": "R000580",
+                 "name": "Peter Roskam",
+                 "party": "R",
+                 "state": "IL",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "37",
+                 "party_votes_pct": "92.17",
+                 "rank": "146",
+                 "notes": ""
+               },                           {
+                 "id": "B000013",
+                 "name": "Spencer Bachus",
+                 "party": "R",
+                 "state": "AL",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "137",
+                 "party_votes_pct": "92.17",
+                 "rank": "147",
+                 "notes": ""
+               },                           {
+                 "id": "M001157",
+                 "name": "Michael McCaul",
+                 "party": "R",
+                 "state": "TX",
+                 "district": "10",                 "total_votes": "1875",
+                 "votes_with_party": "44",
+                 "party_votes_pct": "92.24",
+                 "rank": "148",
+                 "notes": ""
+               },                           {
+                 "id": "M001139",
+                 "name": "Gary G. Miller",
+                 "party": "R",
+                 "state": "CA",
+                 "district": "42",                 "total_votes": "1875",
+                 "votes_with_party": "157",
+                 "party_votes_pct": "92.26",
+                 "rank": "149",
+                 "notes": ""
+               },                           {
+                 "id": "M000689",
+                 "name": "John L. Mica",
+                 "party": "R",
+                 "state": "FL",
+                 "district": "7",                 "total_votes": "1875",
+                 "votes_with_party": "13",
+                 "party_votes_pct": "92.27",
+                 "rank": "150",
+                 "notes": ""
+               },                           {
+                 "id": "M001168",
+                 "name": "Patrick J. Murphy",
+                 "party": "D",
+                 "state": "PA",
+                 "district": "8",                 "total_votes": "1875",
+                 "votes_with_party": "25",
+                 "party_votes_pct": "92.27",
+                 "rank": "151",
+                 "notes": ""
+               },                           {
+                 "id": "P000373",
+                 "name": "Joe Pitts",
+                 "party": "R",
+                 "state": "PA",
+                 "district": "16",                 "total_votes": "1875",
+                 "votes_with_party": "99",
+                 "party_votes_pct": "92.29",
+                 "rank": "152",
+                 "notes": ""
+               },                           {
+                 "id": "W000119",
+                 "name": "Zach Wamp",
+                 "party": "R",
+                 "state": "TN",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "64",
+                 "party_votes_pct": "92.38",
+                 "rank": "153",
+                 "notes": ""
+               },                           {
+                 "id": "D000492",
+                 "name": "David Dreier",
+                 "party": "R",
+                 "state": "CA",
+                 "district": "26",                 "total_votes": "1875",
+                 "votes_with_party": "46",
+                 "party_votes_pct": "92.45",
+                 "rank": "154",
+                 "notes": ""
+               },                           {
+                 "id": "D000603",
+                 "name": "Geoff Davis",
+                 "party": "R",
+                 "state": "KY",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "81",
+                 "party_votes_pct": "92.47",
+                 "rank": "155",
+                 "notes": ""
+               },                           {
+                 "id": "G000289",
+                 "name": "Robert W. Goodlatte",
+                 "party": "R",
+                 "state": "VA",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "10",
+                 "party_votes_pct": "92.49",
+                 "rank": "156",
+                 "notes": ""
+               },                           {
+                 "id": "G000309",
+                 "name": "Bart Gordon",
+                 "party": "D",
+                 "state": "TN",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "89",
+                 "party_votes_pct": "92.50",
+                 "rank": "157",
+                 "notes": ""
+               },                           {
+                 "id": "S001164",
+                 "name": "Jean Schmidt",
+                 "party": "R",
+                 "state": "OH",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "52",
+                 "party_votes_pct": "92.54",
+                 "rank": "158",
+                 "notes": ""
+               },                           {
+                 "id": "H001037",
+                 "name": "Stephanie Herseth Sandlin",
+                 "party": "D",
+                 "state": "SD",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "21",
+                 "party_votes_pct": "92.61",
+                 "rank": "159",
+                 "notes": ""
+               },                           {
+                 "id": "C001063",
+                 "name": "Henry Cuellar",
+                 "party": "D",
+                 "state": "TX",
+                 "district": "28",                 "total_votes": "1875",
+                 "votes_with_party": "38",
+                 "party_votes_pct": "92.65",
+                 "rank": "160",
+                 "notes": ""
+               },                           {
+                 "id": "B000589",
+                 "name": "John A. Boehner",
+                 "party": "R",
+                 "state": "OH",
+                 "district": "8",                 "total_votes": "1875",
+                 "votes_with_party": "102",
+                 "party_votes_pct": "92.67",
+                 "rank": "161",
+                 "notes": ""
+               },                           {
+                 "id": "C000059",
+                 "name": "Ken Calvert",
+                 "party": "R",
+                 "state": "CA",
+                 "district": "44",                 "total_votes": "1875",
+                 "votes_with_party": "84",
+                 "party_votes_pct": "92.74",
+                 "rank": "162",
+                 "notes": ""
+               },                           {
+                 "id": "N000181",
+                 "name": "Devin Nunes",
+                 "party": "R",
+                 "state": "CA",
+                 "district": "21",                 "total_votes": "1875",
+                 "votes_with_party": "71",
+                 "party_votes_pct": "92.79",
+                 "rank": "163",
+                 "notes": ""
+               },                           {
+                 "id": "S001154",
+                 "name": "Bill Shuster",
+                 "party": "R",
+                 "state": "PA",
+                 "district": "9",                 "total_votes": "1875",
+                 "votes_with_party": "52",
+                 "party_votes_pct": "92.81",
+                 "rank": "164",
+                 "notes": ""
+               },                           {
+                 "id": "S000810",
+                 "name": "Pete Stark",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "13",                 "total_votes": "1875",
+                 "votes_with_party": "191",
+                 "party_votes_pct": "92.87",
+                 "rank": "165",
+                 "notes": ""
+               },                           {
+                 "id": "L000491",
+                 "name": "Frank D. Lucas",
+                 "party": "R",
+                 "state": "OK",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "102",
+                 "party_votes_pct": "92.95",
+                 "rank": "166",
+                 "notes": ""
+               },                           {
+                 "id": "G000555",
+                 "name": "Kirsten Gillibrand",
+                 "party": "D",
+                 "state": "NY",
+                 "district": "20",                 "total_votes": "1875",
+                 "votes_with_party": "111",
+                 "party_votes_pct": "93.03",
+                 "rank": "167",
+                 "notes": ""
+               },                           {
+                 "id": "C001053",
+                 "name": "Tom Cole",
+                 "party": "R",
+                 "state": "OK",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "60",
+                 "party_votes_pct": "93.22",
+                 "rank": "168",
+                 "notes": ""
+               },                           {
+                 "id": "R000395",
+                 "name": "Harold Rogers",
+                 "party": "R",
+                 "state": "KY",
+                 "district": "5",                 "total_votes": "1875",
+                 "votes_with_party": "39",
+                 "party_votes_pct": "93.25",
+                 "rank": "169",
+                 "notes": ""
+               },                           {
+                 "id": "H000329",
+                 "name": "Doc Hastings",
+                 "party": "R",
+                 "state": "WA",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "68",
+                 "party_votes_pct": "93.25",
+                 "rank": "170",
+                 "notes": ""
+               },                           {
+                 "id": "G000377",
+                 "name": "Kay Granger",
+                 "party": "R",
+                 "state": "TX",
+                 "district": "12",                 "total_votes": "1875",
+                 "votes_with_party": "121",
+                 "party_votes_pct": "93.27",
+                 "rank": "171",
+                 "notes": ""
+               },                           {
+                 "id": "B001244",
+                 "name": "Jo Bonner",
+                 "party": "R",
+                 "state": "AL",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "111",
+                 "party_votes_pct": "93.31",
+                 "rank": "172",
+                 "notes": ""
+               },                           {
+                 "id": "M000508",
+                 "name": "Howard P. McKeon",
+                 "party": "R",
+                 "state": "CA",
+                 "district": "25",                 "total_votes": "1875",
+                 "votes_with_party": "57",
+                 "party_votes_pct": "93.34",
+                 "rank": "173",
+                 "notes": ""
+               },                           {
+                 "id": "C001045",
+                 "name": "Ander Crenshaw",
+                 "party": "R",
+                 "state": "FL",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "156",
+                 "party_votes_pct": "93.37",
+                 "rank": "174",
+                 "notes": ""
+               },                           {
+                 "id": "G000021",
+                 "name": "Elton Gallegly",
+                 "party": "R",
+                 "state": "CA",
+                 "district": "24",                 "total_votes": "1875",
+                 "votes_with_party": "95",
+                 "party_votes_pct": "93.37",
+                 "rank": "175",
+                 "notes": ""
+               },                           {
+                 "id": "S001172",
+                 "name": "Adrian Smith",
+                 "party": "R",
+                 "state": "NE",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "20",
+                 "party_votes_pct": "93.48",
+                 "rank": "176",
+                 "notes": ""
+               },                           {
+                 "id": "B000716",
+                 "name": "Allen Boyd",
+                 "party": "D",
+                 "state": "FL",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "33",
+                 "party_votes_pct": "93.49",
+                 "rank": "177",
+                 "notes": ""
+               },                           {
+                 "id": "B000575",
+                 "name": "Roy Blunt",
+                 "party": "R",
+                 "state": "MO",
+                 "district": "7",                 "total_votes": "1875",
+                 "votes_with_party": "94",
+                 "party_votes_pct": "93.49",
+                 "rank": "178",
+                 "notes": ""
+               },                           {
+                 "id": "M001166",
+                 "name": "Jerry McNerney",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "11",                 "total_votes": "1875",
+                 "votes_with_party": "23",
+                 "party_votes_pct": "93.52",
+                 "rank": "179",
+                 "notes": ""
+               },                           {
+                 "id": "B001236",
+                 "name": "John Boozman",
+                 "party": "R",
+                 "state": "AR",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "20",
+                 "party_votes_pct": "93.53",
+                 "rank": "180",
+                 "notes": ""
+               },                           {
+                 "id": "S001176",
+                 "name": "Steve Scalise",
+                 "party": "R",
+                 "state": "LA",
+                 "district": "1",                 "total_votes": "422",
+                 "votes_with_party": "0",
+                 "party_votes_pct": "93.60",
+                 "rank": "181",
+                 "notes": "Replaced Bobby Jindal."
+               },                           {
+                 "id": "R000573",
+                 "name": "Mike Ross",
+                 "party": "D",
+                 "state": "AR",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "29",
+                 "party_votes_pct": "93.61",
+                 "rank": "182",
+                 "notes": ""
+               },                           {
+                 "id": "P000586",
+                 "name": "Adam H. Putnam",
+                 "party": "R",
+                 "state": "FL",
+                 "district": "12",                 "total_votes": "1875",
+                 "votes_with_party": "68",
+                 "party_votes_pct": "93.64",
+                 "rank": "183",
+                 "notes": ""
+               },                           {
+                 "id": "F000445",
+                 "name": "J. Randy Forbes",
+                 "party": "R",
+                 "state": "VA",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "87",
+                 "party_votes_pct": "93.74",
+                 "rank": "184",
+                 "notes": ""
+               },                           {
+                 "id": "S001045",
+                 "name": "Bart Stupak",
+                 "party": "D",
+                 "state": "MI",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "53",
+                 "party_votes_pct": "93.85",
+                 "rank": "185",
+                 "notes": ""
+               },                           {
+                 "id": "M001159",
+                 "name": "Cathy McMorris Rodgers",
+                 "party": "R",
+                 "state": "WA",
+                 "district": "5",                 "total_votes": "3833",
+                 "votes_with_party": "2176",
+                 "party_votes_pct": "93.90",
+                 "rank": "186",
+                 "notes": ""
+               },                           {
+                 "id": "D000191",
+                 "name": "Peter A. DeFazio",
+                 "party": "D",
+                 "state": "OR",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "51",
+                 "party_votes_pct": "93.97",
+                 "rank": "187",
+                 "notes": ""
+               },                           {
+                 "id": "C000071",
+                 "name": "Dave Camp",
+                 "party": "R",
+                 "state": "MI",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "33",
+                 "party_votes_pct": "93.97",
+                 "rank": "188",
+                 "notes": ""
+               },                           {
+                 "id": "M001165",
+                 "name": "Kevin McCarthy",
+                 "party": "R",
+                 "state": "CA",
+                 "district": "22",                 "total_votes": "1875",
+                 "votes_with_party": "22",
+                 "party_votes_pct": "94.12",
+                 "rank": "189",
+                 "notes": ""
+               },                           {
+                 "id": "S000583",
+                 "name": "Lamar Smith",
+                 "party": "R",
+                 "state": "TX",
+                 "district": "21",                 "total_votes": "1875",
+                 "votes_with_party": "45",
+                 "party_votes_pct": "94.15",
+                 "rank": "190",
+                 "notes": ""
+               },                           {
+                 "id": "C001058",
+                 "name": "Ben Chandler",
+                 "party": "D",
+                 "state": "KY",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "32",
+                 "party_votes_pct": "94.30",
+                 "rank": "191",
+                 "notes": ""
+               },                           {
+                 "id": "C000794",
+                 "name": "Jerry F. Costello",
+                 "party": "D",
+                 "state": "IL",
+                 "district": "12",                 "total_votes": "1875",
+                 "votes_with_party": "85",
+                 "party_votes_pct": "94.36",
+                 "rank": "192",
+                 "notes": ""
+               },                           {
+                 "id": "C000380",
+                 "name": "Donna M.C. Christensen",
+                 "party": "D",
+                 "state": "VI",
+                 "district": "79",                 "total_votes": "471",
+                 "votes_with_party": "57",
+                 "party_votes_pct": "94.44",
+                 "rank": "193",
+                 "notes": ""
+               },                           {
+                 "id": "G000410",
+                 "name": "Gene Green",
+                 "party": "D",
+                 "state": "TX",
+                 "district": "29",                 "total_votes": "1875",
+                 "votes_with_party": "70",
+                 "party_votes_pct": "94.46",
+                 "rank": "194",
+                 "notes": ""
+               },                           {
+                 "id": "B001229",
+                 "name": "Brian Baird",
+                 "party": "D",
+                 "state": "WA",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "103",
+                 "party_votes_pct": "94.47",
+                 "rank": "195",
+                 "notes": ""
+               },                           {
+                 "id": "F000010",
+                 "name": "Eni F. H. Faleomavaega",
+                 "party": "D",
+                 "state": "AS",
+                 "district": "79",                 "total_votes": "471",
+                 "votes_with_party": "233",
+                 "party_votes_pct": "94.54",
+                 "rank": "196",
+                 "notes": ""
+               },                           {
+                 "id": "F000454",
+                 "name": "Bill Foster",
+                 "party": "D",
+                 "state": "IL",
+                 "district": "14",                 "total_votes": "574",
+                 "votes_with_party": "6",
+                 "party_votes_pct": "94.54",
+                 "rank": "197",
+                 "notes": ""
+               },                           {
+                 "id": "N000147",
+                 "name": "Eleanor Holmes Norton",
+                 "party": "D",
+                 "state": "DC",
+                 "district": "79",                 "total_votes": "471",
+                 "votes_with_party": "49",
+                 "party_votes_pct": "94.55",
+                 "rank": "198",
+                 "notes": ""
+               },                           {
+                 "id": "F000453",
+                 "name": "Mary Fallin",
+                 "party": "R",
+                 "state": "OK",
+                 "district": "5",                 "total_votes": "1875",
+                 "votes_with_party": "22",
+                 "party_votes_pct": "94.60",
+                 "rank": "199",
+                 "notes": ""
+               },                           {
+                 "id": "W000804",
+                 "name": "Robert J. Wittman",
+                 "party": "R",
+                 "state": "VA",
+                 "district": "1",                 "total_votes": "714",
+                 "votes_with_party": "7",
+                 "party_votes_pct": "94.63",
+                 "rank": "200",
+                 "notes": "filled vacancy caused by the death of Jo Ann Davis."
+               },                           {
+                 "id": "M000404",
+                 "name": "Jim McDermott",
+                 "party": "D",
+                 "state": "WA",
+                 "district": "7",                 "total_votes": "1875",
+                 "votes_with_party": "69",
+                 "party_votes_pct": "94.68",
+                 "rank": "201",
+                 "notes": ""
+               },                           {
+                 "id": "C001059",
+                 "name": "Jim Costa",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "20",                 "total_votes": "1875",
+                 "votes_with_party": "84",
+                 "party_votes_pct": "94.70",
+                 "rank": "202",
+                 "notes": ""
+               },                           {
+                 "id": "W000801",
+                 "name": "Charlie Wilson",
+                 "party": "D",
+                 "state": "OH",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "121",
+                 "party_votes_pct": "94.70",
+                 "rank": "203",
+                 "notes": ""
+               },                           {
+                 "id": "H000712",
+                 "name": "Tim Holden",
+                 "party": "D",
+                 "state": "PA",
+                 "district": "17",                 "total_votes": "1875",
+                 "votes_with_party": "68",
+                 "party_votes_pct": "94.74",
+                 "rank": "204",
+                 "notes": ""
+               },                           {
+                 "id": "B000420",
+                 "name": "Marion Berry",
+                 "party": "D",
+                 "state": "AR",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "56",
+                 "party_votes_pct": "94.78",
+                 "rank": "205",
+                 "notes": ""
+               },                           {
+                 "id": "W000187",
+                 "name": "Maxine Waters",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "35",                 "total_votes": "1875",
+                 "votes_with_party": "124",
+                 "party_votes_pct": "94.92",
+                 "rank": "206",
+                 "notes": ""
+               },                           {
+                 "id": "L000551",
+                 "name": "Barbara Lee",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "9",                 "total_votes": "1875",
+                 "votes_with_party": "59",
+                 "party_votes_pct": "94.93",
+                 "rank": "207",
+                 "notes": ""
+               },                           {
+                 "id": "R000011",
+                 "name": "Nick J. Rahall II",
+                 "party": "D",
+                 "state": "WV",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "13",
+                 "party_votes_pct": "95.01",
+                 "rank": "208",
+                 "notes": ""
+               },                           {
+                 "id": "B000574",
+                 "name": "Earl Blumenauer",
+                 "party": "D",
+                 "state": "OR",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "53",
+                 "party_votes_pct": "95.01",
+                 "rank": "209",
+                 "notes": ""
+               },                           {
+                 "id": "K000008",
+                 "name": "Paul E. Kanjorski",
+                 "party": "D",
+                 "state": "PA",
+                 "district": "11",                 "total_votes": "1875",
+                 "votes_with_party": "84",
+                 "party_votes_pct": "95.09",
+                 "rank": "210",
+                 "notes": ""
+               },                           {
+                 "id": "F000116",
+                 "name": "Bob Filner",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "51",                 "total_votes": "1875",
+                 "votes_with_party": "62",
+                 "party_votes_pct": "95.09",
+                 "rank": "211",
+                 "notes": ""
+               },                           {
+                 "id": "M001149",
+                 "name": "Michael H. Michaud",
+                 "party": "D",
+                 "state": "ME",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "20",
+                 "party_votes_pct": "95.09",
+                 "rank": "212",
+                 "notes": ""
+               },                           {
+                 "id": "A000014",
+                 "name": "Neil Abercrombie",
+                 "party": "D",
+                 "state": "HI",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "117",
+                 "party_votes_pct": "95.11",
+                 "rank": "213",
+                 "notes": ""
+               },                           {
+                 "id": "M000844",
+                 "name": "Alan B. Mollohan",
+                 "party": "D",
+                 "state": "WV",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "67",
+                 "party_votes_pct": "95.13",
+                 "rank": "214",
+                 "notes": ""
+               },                           {
+                 "id": "S000465",
+                 "name": "Ike Skelton",
+                 "party": "D",
+                 "state": "MO",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "43",
+                 "party_votes_pct": "95.14",
+                 "rank": "215",
+                 "notes": ""
+               },                           {
+                 "id": "L000563",
+                 "name": "Daniel Lipinski",
+                 "party": "D",
+                 "state": "IL",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "50",
+                 "party_votes_pct": "95.18",
+                 "rank": "216",
+                 "notes": ""
+               },                           {
+                 "id": "E000063",
+                 "name": "Chet Edwards",
+                 "party": "D",
+                 "state": "TX",
+                 "district": "17",                 "total_votes": "1875",
+                 "votes_with_party": "79",
+                 "party_votes_pct": "95.21",
+                 "rank": "217",
+                 "notes": ""
+               },                           {
+                 "id": "S001158",
+                 "name": "John Salazar",
+                 "party": "D",
+                 "state": "CO",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "27",
+                 "party_votes_pct": "95.24",
+                 "rank": "218",
+                 "notes": ""
+               },                           {
+                 "id": "W000738",
+                 "name": "Lynn Woolsey",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "170",
+                 "party_votes_pct": "95.31",
+                 "rank": "219",
+                 "notes": ""
+               },                           {
+                 "id": "S000510",
+                 "name": "Adam Smith",
+                 "party": "D",
+                 "state": "WA",
+                 "district": "9",                 "total_votes": "1875",
+                 "votes_with_party": "99",
+                 "party_votes_pct": "95.50",
+                 "rank": "220",
+                 "notes": ""
+               },                           {
+                 "id": "B000652",
+                 "name": "Leonard L. Boswell",
+                 "party": "D",
+                 "state": "IA",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "94",
+                 "party_votes_pct": "95.51",
+                 "rank": "221",
+                 "notes": ""
+               },                           {
+                 "id": "K000009",
+                 "name": "Marcy Kaptur",
+                 "party": "D",
+                 "state": "OH",
+                 "district": "9",                 "total_votes": "1875",
+                 "votes_with_party": "69",
+                 "party_votes_pct": "95.63",
+                 "rank": "222",
+                 "notes": ""
+               },                           {
+                 "id": "T000460",
+                 "name": "Mike Thompson",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "34",
+                 "party_votes_pct": "95.65",
+                 "rank": "223",
+                 "notes": ""
+               },                           {
+                 "id": "W000799",
+                 "name": "Tim Walz",
+                 "party": "D",
+                 "state": "MN",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "7",
+                 "party_votes_pct": "95.66",
+                 "rank": "224",
+                 "notes": ""
+               },                           {
+                 "id": "H000627",
+                 "name": "Maurice D. Hinchey",
+                 "party": "D",
+                 "state": "NY",
+                 "district": "22",                 "total_votes": "1875",
+                 "votes_with_party": "75",
+                 "party_votes_pct": "95.67",
+                 "rank": "225",
+                 "notes": ""
+               },                           {
+                 "id": "K000188",
+                 "name": "Ron Kind",
+                 "party": "D",
+                 "state": "WI",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "58",
+                 "party_votes_pct": "95.71",
+                 "rank": "226",
+                 "notes": ""
+               },                           {
+                 "id": "P000422",
+                 "name": "Earl Pomeroy",
+                 "party": "D",
+                 "state": "ND",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "38",
+                 "party_votes_pct": "95.75",
+                 "rank": "227",
+                 "notes": ""
+               },                           {
+                 "id": "C001037",
+                 "name": "Michael E. Capuano",
+                 "party": "D",
+                 "state": "MA",
+                 "district": "8",                 "total_votes": "1875",
+                 "votes_with_party": "46",
+                 "party_votes_pct": "95.79",
+                 "rank": "228",
+                 "notes": ""
+               },                           {
+                 "id": "R000568",
+                 "name": "Ciro D. Rodriguez",
+                 "party": "D",
+                 "state": "TX",
+                 "district": "23",                 "total_votes": "1875",
+                 "votes_with_party": "22",
+                 "party_votes_pct": "95.84",
+                 "rank": "229",
+                 "notes": ""
+               },                           {
+                 "id": "E000288",
+                 "name": "Keith Ellison",
+                 "party": "D",
+                 "state": "MN",
+                 "district": "5",                 "total_votes": "1875",
+                 "votes_with_party": "84",
+                 "party_votes_pct": "95.87",
+                 "rank": "230",
+                 "notes": ""
+               },                           {
+                 "id": "M001160",
+                 "name": "Gwen Moore",
+                 "party": "D",
+                 "state": "WI",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "56",
+                 "party_votes_pct": "95.88",
+                 "rank": "231",
+                 "notes": ""
+               },                           {
+                 "id": "B000657",
+                 "name": "Rick Boucher",
+                 "party": "D",
+                 "state": "VA",
+                 "district": "9",                 "total_votes": "1875",
+                 "votes_with_party": "127",
+                 "party_votes_pct": "95.88",
+                 "rank": "232",
+                 "notes": ""
+               },                           {
+                 "id": "H000213",
+                 "name": "Jane Harman",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "36",                 "total_votes": "1875",
+                 "votes_with_party": "123",
+                 "party_votes_pct": "95.89",
+                 "rank": "233",
+                 "notes": ""
+               },                           {
+                 "id": "M001120",
+                 "name": "John P. Murtha",
+                 "party": "D",
+                 "state": "PA",
+                 "district": "12",                 "total_votes": "1875",
+                 "votes_with_party": "115",
+                 "party_votes_pct": "95.91",
+                 "rank": "234",
+                 "notes": ""
+               },                           {
+                 "id": "B001231",
+                 "name": "Shelley Berkley",
+                 "party": "D",
+                 "state": "NV",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "73",
+                 "party_votes_pct": "95.95",
+                 "rank": "235",
+                 "notes": ""
+               },                           {
+                 "id": "C000714",
+                 "name": "John Conyers Jr.",
+                 "party": "D",
+                 "state": "MI",
+                 "district": "14",                 "total_votes": "1875",
+                 "votes_with_party": "136",
+                 "party_votes_pct": "95.97",
+                 "rank": "236",
+                 "notes": ""
+               },                           {
+                 "id": "C001049",
+                 "name": "William Lacy Clay",
+                 "party": "D",
+                 "state": "MO",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "85",
+                 "party_votes_pct": "95.98",
+                 "rank": "237",
+                 "notes": ""
+               },                           {
+                 "id": "P000149",
+                 "name": "Donald M. Payne",
+                 "party": "D",
+                 "state": "NJ",
+                 "district": "10",                 "total_votes": "1875",
+                 "votes_with_party": "130",
+                 "party_votes_pct": "95.99",
+                 "rank": "238",
+                 "notes": ""
+               },                           {
+                 "id": "S001169",
+                 "name": "Joe Sestak",
+                 "party": "D",
+                 "state": "PA",
+                 "district": "7",                 "total_votes": "1875",
+                 "votes_with_party": "55",
+                 "party_votes_pct": "95.99",
+                 "rank": "239",
+                 "notes": ""
+               },                           {
+                 "id": "W000800",
+                 "name": "Peter Welch",
+                 "party": "D",
+                 "state": "VT",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "25",
+                 "party_votes_pct": "96.00",
+                 "rank": "240",
+                 "notes": ""
+               },                           {
+                 "id": "P000593",
+                 "name": "Ed Perlmutter",
+                 "party": "D",
+                 "state": "CO",
+                 "district": "7",                 "total_votes": "1875",
+                 "votes_with_party": "54",
+                 "party_votes_pct": "96.05",
+                 "rank": "241",
+                 "notes": ""
+               },                           {
+                 "id": "K000365",
+                 "name": "Steve Kagen",
+                 "party": "D",
+                 "state": "WI",
+                 "district": "8",                 "total_votes": "1875",
+                 "votes_with_party": "40",
+                 "party_votes_pct": "96.08",
+                 "rank": "242",
+                 "notes": ""
+               },                           {
+                 "id": "W000793",
+                 "name": "David Wu",
+                 "party": "D",
+                 "state": "OR",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "31",
+                 "party_votes_pct": "96.10",
+                 "rank": "243",
+                 "notes": ""
+               },                           {
+                 "id": "P000197",
+                 "name": "Nancy Pelosi",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "8",                 "total_votes": "1875",
+                 "votes_with_party": "1695",
+                 "party_votes_pct": "96.11",
+                 "rank": "244",
+                 "notes": "Speaker votes at her discretion."
+               },                           {
+                 "id": "K000366",
+                 "name": "Ron Klein",
+                 "party": "D",
+                 "state": "FL",
+                 "district": "22",                 "total_votes": "1875",
+                 "votes_with_party": "40",
+                 "party_votes_pct": "96.13",
+                 "rank": "245",
+                 "notes": ""
+               },                           {
+                 "id": "D000602",
+                 "name": "Artur Davis",
+                 "party": "D",
+                 "state": "AL",
+                 "district": "7",                 "total_votes": "1875",
+                 "votes_with_party": "32",
+                 "party_votes_pct": "96.15",
+                 "rank": "246",
+                 "notes": ""
+               },                           {
+                 "id": "C001050",
+                 "name": "Dennis Cardoza",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "18",                 "total_votes": "1875",
+                 "votes_with_party": "77",
+                 "party_votes_pct": "96.16",
+                 "rank": "247",
+                 "notes": ""
+               },                           {
+                 "id": "L000287",
+                 "name": "John Lewis",
+                 "party": "D",
+                 "state": "GA",
+                 "district": "5",                 "total_votes": "1875",
+                 "votes_with_party": "75",
+                 "party_votes_pct": "96.17",
+                 "rank": "248",
+                 "notes": ""
+               },                           {
+                 "id": "S000749",
+                 "name": "John M. Spratt Jr.",
+                 "party": "D",
+                 "state": "SC",
+                 "district": "5",                 "total_votes": "1875",
+                 "votes_with_party": "40",
+                 "party_votes_pct": "96.19",
+                 "rank": "249",
+                 "notes": ""
+               },                           {
+                 "id": "L000566",
+                 "name": "Robert E. Latta",
+                 "party": "R",
+                 "state": "OH",
+                 "district": "5",                 "total_votes": "714",
+                 "votes_with_party": "2",
+                 "party_votes_pct": "96.21",
+                 "rank": "250",
+                 "notes": "filled vacancy caused by the death of Paul Gillmor."
+               },                           {
+                 "id": "H001032",
+                 "name": "Rush Holt",
+                 "party": "D",
+                 "state": "NJ",
+                 "district": "12",                 "total_votes": "1875",
+                 "votes_with_party": "28",
+                 "party_votes_pct": "96.21",
+                 "rank": "251",
+                 "notes": ""
+               },                           {
+                 "id": "J000126",
+                 "name": "Eddie Bernice Johnson",
+                 "party": "D",
+                 "state": "TX",
+                 "district": "30",                 "total_votes": "1875",
+                 "votes_with_party": "258",
+                 "party_votes_pct": "96.23",
+                 "rank": "252",
+                 "notes": ""
+               },                           {
+                 "id": "O000107",
+                 "name": "Solomon P. Ortiz",
+                 "party": "D",
+                 "state": "TX",
+                 "district": "27",                 "total_votes": "1875",
+                 "votes_with_party": "272",
+                 "party_votes_pct": "96.26",
+                 "rank": "253",
+                 "notes": ""
+               },                           {
+                 "id": "C001067",
+                 "name": "Yvette Clarke",
+                 "party": "D",
+                 "state": "NY",
+                 "district": "11",                 "total_votes": "1875",
+                 "votes_with_party": "173",
+                 "party_votes_pct": "96.30",
+                 "rank": "254",
+                 "notes": ""
+               },                           {
+                 "id": "M000933",
+                 "name": "James P. Moran",
+                 "party": "D",
+                 "state": "VA",
+                 "district": "8",                 "total_votes": "1875",
+                 "votes_with_party": "118",
+                 "party_votes_pct": "96.30",
+                 "rank": "255",
+                 "notes": ""
+               },                           {
+                 "id": "G000535",
+                 "name": "Luis V. Gutierrez",
+                 "party": "D",
+                 "state": "IL",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "279",
+                 "party_votes_pct": "96.30",
+                 "rank": "256",
+                 "notes": ""
+               },                           {
+                 "id": "S000672",
+                 "name": "Vic Snyder",
+                 "party": "D",
+                 "state": "AR",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "60",
+                 "party_votes_pct": "96.31",
+                 "rank": "257",
+                 "notes": ""
+               },                           {
+                 "id": "D000355",
+                 "name": "John D. Dingell",
+                 "party": "D",
+                 "state": "MI",
+                 "district": "15",                 "total_votes": "1875",
+                 "votes_with_party": "87",
+                 "party_votes_pct": "96.31",
+                 "rank": "258",
+                 "notes": ""
+               },                           {
+                 "id": "M001140",
+                 "name": "Dennis Moore",
+                 "party": "D",
+                 "state": "KS",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "13",
+                 "party_votes_pct": "96.35",
+                 "rank": "259",
+                 "notes": ""
+               },                           {
+                 "id": "T000326",
+                 "name": "Edolphus Towns",
+                 "party": "D",
+                 "state": "NY",
+                 "district": "10",                 "total_votes": "1875",
+                 "votes_with_party": "118",
+                 "party_votes_pct": "96.36",
+                 "rank": "260",
+                 "notes": ""
+               },                           {
+                 "id": "J000032",
+                 "name": "Sheila Jackson-Lee",
+                 "party": "D",
+                 "state": "TX",
+                 "district": "18",                 "total_votes": "1875",
+                 "votes_with_party": "98",
+                 "party_votes_pct": "96.40",
+                 "rank": "261",
+                 "notes": ""
+               },                           {
+                 "id": "H001034",
+                 "name": "Michael M. Honda",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "15",                 "total_votes": "1875",
+                 "votes_with_party": "121",
+                 "party_votes_pct": "96.41",
+                 "rank": "262",
+                 "notes": ""
+               },                           {
+                 "id": "B001259",
+                 "name": "Bruce Braley",
+                 "party": "D",
+                 "state": "IA",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "91",
+                 "party_votes_pct": "96.41",
+                 "rank": "263",
+                 "notes": ""
+               },                           {
+                 "id": "O000006",
+                 "name": "James L. Oberstar",
+                 "party": "D",
+                 "state": "MN",
+                 "district": "8",                 "total_votes": "1875",
+                 "votes_with_party": "208",
+                 "party_votes_pct": "96.46",
+                 "rank": "264",
+                 "notes": ""
+               },                           {
+                 "id": "B000490",
+                 "name": "Sanford D. Bishop Jr.",
+                 "party": "D",
+                 "state": "GA",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "80",
+                 "party_votes_pct": "96.49",
+                 "rank": "265",
+                 "notes": ""
+               },                           {
+                 "id": "S000248",
+                 "name": "José E. Serrano",
+                 "party": "D",
+                 "state": "NY",
+                 "district": "16",                 "total_votes": "1875",
+                 "votes_with_party": "19",
+                 "party_votes_pct": "96.50",
+                 "rank": "266",
+                 "notes": ""
+               },                           {
+                 "id": "B001230",
+                 "name": "Tammy Baldwin",
+                 "party": "D",
+                 "state": "WI",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "18",
+                 "party_votes_pct": "96.50",
+                 "rank": "267",
+                 "notes": ""
+               },                           {
+                 "id": "E000226",
+                 "name": "Bob Etheridge",
+                 "party": "D",
+                 "state": "NC",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "14",
+                 "party_votes_pct": "96.51",
+                 "rank": "268",
+                 "notes": ""
+               },                           {
+                 "id": "R000576",
+                 "name": "C.A. Dutch Ruppersberger",
+                 "party": "D",
+                 "state": "MD",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "98",
+                 "party_votes_pct": "96.51",
+                 "rank": "269",
+                 "notes": ""
+               },                           {
+                 "id": "G000551",
+                 "name": "Raúl M. Grijalva",
+                 "party": "D",
+                 "state": "AZ",
+                 "district": "7",                 "total_votes": "1875",
+                 "votes_with_party": "92",
+                 "party_votes_pct": "96.52",
+                 "rank": "270",
+                 "notes": ""
+               },                           {
+                 "id": "D000210",
+                 "name": "Bill Delahunt",
+                 "party": "D",
+                 "state": "MA",
+                 "district": "10",                 "total_votes": "1875",
+                 "votes_with_party": "148",
+                 "party_votes_pct": "96.53",
+                 "rank": "271",
+                 "notes": ""
+               },                           {
+                 "id": "W000794",
+                 "name": "Diane Watson",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "33",                 "total_votes": "1875",
+                 "votes_with_party": "84",
+                 "party_votes_pct": "96.54",
+                 "rank": "272",
+                 "notes": ""
+               },                           {
+                 "id": "G000544",
+                 "name": "Charlie Gonzalez",
+                 "party": "D",
+                 "state": "TX",
+                 "district": "20",                 "total_votes": "1875",
+                 "votes_with_party": "50",
+                 "party_votes_pct": "96.55",
+                 "rank": "273",
+                 "notes": ""
+               },                           {
+                 "id": "H001039",
+                 "name": "John Hall",
+                 "party": "D",
+                 "state": "NY",
+                 "district": "19",                 "total_votes": "1875",
+                 "votes_with_party": "21",
+                 "party_votes_pct": "96.55",
+                 "rank": "274",
+                 "notes": ""
+               },                           {
+                 "id": "S001145",
+                 "name": "Jan Schakowsky",
+                 "party": "D",
+                 "state": "IL",
+                 "district": "9",                 "total_votes": "1875",
+                 "votes_with_party": "21",
+                 "party_votes_pct": "96.55",
+                 "rank": "275",
+                 "notes": ""
+               },                           {
+                 "id": "R000170",
+                 "name": "Silvestre Reyes",
+                 "party": "D",
+                 "state": "TX",
+                 "district": "16",                 "total_votes": "1875",
+                 "votes_with_party": "105",
+                 "party_votes_pct": "96.55",
+                 "rank": "276",
+                 "notes": ""
+               },                           {
+                 "id": "S000344",
+                 "name": "Brad Sherman",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "27",                 "total_votes": "1875",
+                 "votes_with_party": "23",
+                 "party_votes_pct": "96.60",
+                 "rank": "277",
+                 "notes": ""
+               },                           {
+                 "id": "B000911",
+                 "name": "Corrine Brown",
+                 "party": "D",
+                 "state": "FL",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "254",
+                 "party_votes_pct": "96.61",
+                 "rank": "278",
+                 "notes": ""
+               },                           {
+                 "id": "P000099",
+                 "name": "Ed Pastor",
+                 "party": "D",
+                 "state": "AZ",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "47",
+                 "party_votes_pct": "96.61",
+                 "rank": "279",
+                 "notes": ""
+               },                           {
+                 "id": "L000562",
+                 "name": "Stephen F. Lynch",
+                 "party": "D",
+                 "state": "MA",
+                 "district": "9",                 "total_votes": "1875",
+                 "votes_with_party": "45",
+                 "party_votes_pct": "96.61",
+                 "rank": "280",
+                 "notes": ""
+               },                           {
+                 "id": "B001251",
+                 "name": "G. K. Butterfield",
+                 "party": "D",
+                 "state": "NC",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "104",
+                 "party_votes_pct": "96.61",
+                 "rank": "281",
+                 "notes": ""
+               },                           {
+                 "id": "V000081",
+                 "name": "Nydia M. Velázquez",
+                 "party": "D",
+                 "state": "NY",
+                 "district": "12",                 "total_votes": "1875",
+                 "votes_with_party": "32",
+                 "party_votes_pct": "96.64",
+                 "rank": "282",
+                 "notes": ""
+               },                           {
+                 "id": "L000560",
+                 "name": "Rick Larsen",
+                 "party": "D",
+                 "state": "WA",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "28",
+                 "party_votes_pct": "96.64",
+                 "rank": "283",
+                 "notes": ""
+               },                           {
+                 "id": "S001157",
+                 "name": "David Scott",
+                 "party": "D",
+                 "state": "GA",
+                 "district": "13",                 "total_votes": "1875",
+                 "votes_with_party": "27",
+                 "party_votes_pct": "96.65",
+                 "rank": "284",
+                 "notes": ""
+               },                           {
+                 "id": "C001068",
+                 "name": "Steve Cohen",
+                 "party": "D",
+                 "state": "TN",
+                 "district": "9",                 "total_votes": "1875",
+                 "votes_with_party": "26",
+                 "party_votes_pct": "96.65",
+                 "rank": "285",
+                 "notes": ""
+               },                           {
+                 "id": "L000565",
+                 "name": "Dave Loebsack",
+                 "party": "D",
+                 "state": "IA",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "52",
+                 "party_votes_pct": "96.65",
+                 "rank": "286",
+                 "notes": ""
+               },                           {
+                 "id": "T000193",
+                 "name": "Bennie Thompson",
+                 "party": "D",
+                 "state": "MS",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "52",
+                 "party_votes_pct": "96.65",
+                 "rank": "287",
+                 "notes": ""
+               },                           {
+                 "id": "M001169",
+                 "name": "Christopher S. Murphy",
+                 "party": "D",
+                 "state": "CT",
+                 "district": "5",                 "total_votes": "1875",
+                 "votes_with_party": "21",
+                 "party_votes_pct": "96.66",
+                 "rank": "288",
+                 "notes": ""
+               },                           {
+                 "id": "A000363",
+                 "name": "Michael Arcuri",
+                 "party": "D",
+                 "state": "NY",
+                 "district": "24",                 "total_votes": "1875",
+                 "votes_with_party": "16",
+                 "party_votes_pct": "96.66",
+                 "rank": "289",
+                 "notes": ""
+               },                           {
+                 "id": "D000399",
+                 "name": "Lloyd Doggett",
+                 "party": "D",
+                 "state": "TX",
+                 "district": "25",                 "total_votes": "1875",
+                 "votes_with_party": "71",
+                 "party_votes_pct": "96.67",
+                 "rank": "290",
+                 "notes": ""
+               },                           {
+                 "id": "W000207",
+                 "name": "Melvin Watt",
+                 "party": "D",
+                 "state": "NC",
+                 "district": "12",                 "total_votes": "1875",
+                 "votes_with_party": "23",
+                 "party_votes_pct": "96.71",
+                 "rank": "291",
+                 "notes": ""
+               },                           {
+                 "id": "R000577",
+                 "name": "Tim Ryan",
+                 "party": "D",
+                 "state": "OH",
+                 "district": "17",                 "total_votes": "1875",
+                 "votes_with_party": "71",
+                 "party_votes_pct": "96.73",
+                 "rank": "292",
+                 "notes": ""
+               },                           {
+                 "id": "D000096",
+                 "name": "Danny K. Davis",
+                 "party": "D",
+                 "state": "IL",
+                 "district": "7",                 "total_votes": "1875",
+                 "votes_with_party": "96",
+                 "party_votes_pct": "96.74",
+                 "rank": "293",
+                 "notes": ""
+               },                           {
+                 "id": "O000085",
+                 "name": "John W. Olver",
+                 "party": "D",
+                 "state": "MA",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "31",
+                 "party_votes_pct": "96.75",
+                 "rank": "294",
+                 "notes": ""
+               },                           {
+                 "id": "S000030",
+                 "name": "Loretta Sanchez",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "47",                 "total_votes": "1875",
+                 "votes_with_party": "108",
+                 "party_votes_pct": "96.77",
+                 "rank": "295",
+                 "notes": ""
+               },                           {
+                 "id": "F000339",
+                 "name": "Barney Frank",
+                 "party": "D",
+                 "state": "MA",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "75",
+                 "party_votes_pct": "96.78",
+                 "rank": "296",
+                 "notes": ""
+               },                           {
+                 "id": "J000070",
+                 "name": "William J. Jefferson",
+                 "party": "D",
+                 "state": "LA",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "191",
+                 "party_votes_pct": "96.79",
+                 "rank": "297",
+                 "notes": ""
+               },                           {
+                 "id": "C000537",
+                 "name": "James E. Clyburn",
+                 "party": "D",
+                 "state": "SC",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "33",
+                 "party_votes_pct": "96.80",
+                 "rank": "298",
+                 "notes": ""
+               },                           {
+                 "id": "P000096",
+                 "name": "Bill Pascrell Jr.",
+                 "party": "D",
+                 "state": "NJ",
+                 "district": "8",                 "total_votes": "1875",
+                 "votes_with_party": "63",
+                 "party_votes_pct": "96.80",
+                 "rank": "299",
+                 "notes": ""
+               },                           {
+                 "id": "S001162",
+                 "name": "Allyson Y. Schwartz",
+                 "party": "D",
+                 "state": "PA",
+                 "district": "13",                 "total_votes": "1875",
+                 "votes_with_party": "31",
+                 "party_votes_pct": "96.80",
+                 "rank": "300",
+                 "notes": ""
+               },                           {
+                 "id": "M000725",
+                 "name": "George Miller",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "7",                 "total_votes": "1875",
+                 "votes_with_party": "149",
+                 "party_votes_pct": "96.81",
+                 "rank": "301",
+                 "notes": ""
+               },                           {
+                 "id": "T000266",
+                 "name": "John F. Tierney",
+                 "party": "D",
+                 "state": "MA",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "51",
+                 "party_votes_pct": "96.82",
+                 "rank": "302",
+                 "notes": ""
+               },                           {
+                 "id": "Y000062",
+                 "name": "John Yarmuth",
+                 "party": "D",
+                 "state": "KY",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "43",
+                 "party_votes_pct": "96.83",
+                 "rank": "303",
+                 "notes": ""
+               },                           {
+                 "id": "C001038",
+                 "name": "Joseph Crowley",
+                 "party": "D",
+                 "state": "NY",
+                 "district": "7",                 "total_votes": "1875",
+                 "votes_with_party": "34",
+                 "party_votes_pct": "96.85",
+                 "rank": "304",
+                 "notes": ""
+               },                           {
+                 "id": "R000515",
+                 "name": "Bobby L. Rush",
+                 "party": "D",
+                 "state": "IL",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "597",
+                 "party_votes_pct": "96.87",
+                 "rank": "305",
+                 "notes": ""
+               },                           {
+                 "id": "H000324",
+                 "name": "Alcee L. Hastings",
+                 "party": "D",
+                 "state": "FL",
+                 "district": "23",                 "total_votes": "1875",
+                 "votes_with_party": "114",
+                 "party_votes_pct": "96.88",
+                 "rank": "306",
+                 "notes": ""
+               },                           {
+                 "id": "W000792",
+                 "name": "Anthony Weiner",
+                 "party": "D",
+                 "state": "NY",
+                 "district": "9",                 "total_votes": "1875",
+                 "votes_with_party": "113",
+                 "party_votes_pct": "96.88",
+                 "rank": "307",
+                 "notes": ""
+               },                           {
+                 "id": "I000026",
+                 "name": "Jay Inslee",
+                 "party": "D",
+                 "state": "WA",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "46",
+                 "party_votes_pct": "96.88",
+                 "rank": "308",
+                 "notes": ""
+               },                           {
+                 "id": "J000283",
+                 "name": "Jesse L. Jackson Jr.",
+                 "party": "D",
+                 "state": "IL",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "0",
+                 "party_votes_pct": "96.91",
+                 "rank": "309",
+                 "notes": ""
+               },                           {
+                 "id": "S001156",
+                 "name": "Linda T. Sanchez",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "39",                 "total_votes": "1875",
+                 "votes_with_party": "30",
+                 "party_votes_pct": "96.91",
+                 "rank": "310",
+                 "notes": ""
+               },                           {
+                 "id": "H001043",
+                 "name": "Paul W. Hodes",
+                 "party": "D",
+                 "state": "NH",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "29",
+                 "party_votes_pct": "96.91",
+                 "rank": "311",
+                 "notes": ""
+               },                           {
+                 "id": "H000636",
+                 "name": "Rubén Hinojosa",
+                 "party": "D",
+                 "state": "TX",
+                 "district": "15",                 "total_votes": "1875",
+                 "votes_with_party": "221",
+                 "party_votes_pct": "96.92",
+                 "rank": "312",
+                 "notes": ""
+               },                           {
+                 "id": "R000486",
+                 "name": "Lucille Roybal-Allard",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "34",                 "total_votes": "1875",
+                 "votes_with_party": "22",
+                 "party_votes_pct": "96.98",
+                 "rank": "313",
+                 "notes": ""
+               },                           {
+                 "id": "W000314",
+                 "name": "Robert Wexler",
+                 "party": "D",
+                 "state": "FL",
+                 "district": "19",                 "total_votes": "1875",
+                 "votes_with_party": "176",
+                 "party_votes_pct": "97.00",
+                 "rank": "314",
+                 "notes": ""
+               },                           {
+                 "id": "C001066",
+                 "name": "Kathy Castor",
+                 "party": "D",
+                 "state": "FL",
+                 "district": "11",                 "total_votes": "1875",
+                 "votes_with_party": "76",
+                 "party_votes_pct": "97.00",
+                 "rank": "315",
+                 "notes": ""
+               },                           {
+                 "id": "K000180",
+                 "name": "Carolyn Cheeks Kilpatrick",
+                 "party": "D",
+                 "state": "MI",
+                 "district": "13",                 "total_votes": "1875",
+                 "votes_with_party": "102",
+                 "party_votes_pct": "97.01",
+                 "rank": "316",
+                 "notes": ""
+               },                           {
+                 "id": "H001042",
+                 "name": "Mazie K. Hirono",
+                 "party": "D",
+                 "state": "HI",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "27",
+                 "party_votes_pct": "97.02",
+                 "rank": "317",
+                 "notes": ""
+               },                           {
+                 "id": "M001137",
+                 "name": "Gregory W. Meeks",
+                 "party": "D",
+                 "state": "NY",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "121",
+                 "party_votes_pct": "97.04",
+                 "rank": "318",
+                 "notes": ""
+               },                           {
+                 "id": "O000007",
+                 "name": "David R. Obey",
+                 "party": "D",
+                 "state": "WI",
+                 "district": "7",                 "total_votes": "1875",
+                 "votes_with_party": "30",
+                 "party_votes_pct": "97.07",
+                 "rank": "319",
+                 "notes": ""
+               },                           {
+                 "id": "H001040",
+                 "name": "Phil Hare",
+                 "party": "D",
+                 "state": "IL",
+                 "district": "17",                 "total_votes": "1875",
+                 "votes_with_party": "29",
+                 "party_votes_pct": "97.07",
+                 "rank": "320",
+                 "notes": ""
+               },                           {
+                 "id": "D000327",
+                 "name": "Norman D. Dicks",
+                 "party": "D",
+                 "state": "WA",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "97",
+                 "party_votes_pct": "97.08",
+                 "rank": "321",
+                 "notes": ""
+               },                           {
+                 "id": "R000462",
+                 "name": "Steven R. Rothman",
+                 "party": "D",
+                 "state": "NJ",
+                 "district": "9",                 "total_votes": "1875",
+                 "votes_with_party": "91",
+                 "party_votes_pct": "97.09",
+                 "rank": "322",
+                 "notes": ""
+               },                           {
+                 "id": "C001061",
+                 "name": "Emanuel Cleaver II",
+                 "party": "D",
+                 "state": "MO",
+                 "district": "5",                 "total_votes": "1875",
+                 "votes_with_party": "53",
+                 "party_votes_pct": "97.09",
+                 "rank": "323",
+                 "notes": ""
+               },                           {
+                 "id": "S000480",
+                 "name": "Louise M. Slaughter",
+                 "party": "D",
+                 "state": "NY",
+                 "district": "28",                 "total_votes": "1875",
+                 "votes_with_party": "84",
+                 "party_votes_pct": "97.10",
+                 "rank": "324",
+                 "notes": ""
+               },                           {
+                 "id": "D000482",
+                 "name": "Mike Doyle",
+                 "party": "D",
+                 "state": "PA",
+                 "district": "14",                 "total_votes": "1875",
+                 "votes_with_party": "150",
+                 "party_votes_pct": "97.10",
+                 "rank": "325",
+                 "notes": ""
+               },                           {
+                 "id": "F000030",
+                 "name": "Sam Farr",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "17",                 "total_votes": "1875",
+                 "votes_with_party": "46",
+                 "party_votes_pct": "97.10",
+                 "rank": "326",
+                 "notes": ""
+               },                           {
+                 "id": "W000215",
+                 "name": "Henry A. Waxman",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "30",                 "total_votes": "1875",
+                 "votes_with_party": "108",
+                 "party_votes_pct": "97.11",
+                 "rank": "327",
+                 "notes": ""
+               },                           {
+                 "id": "J000288",
+                 "name": "Hank Johnson",
+                 "party": "D",
+                 "state": "GA",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "71",
+                 "party_votes_pct": "97.12",
+                 "rank": "328",
+                 "notes": ""
+               },                           {
+                 "id": "P000034",
+                 "name": "Frank Pallone",
+                 "party": "D",
+                 "state": "NJ",
+                 "district": "6",                 "total_votes": "1875",
+                 "votes_with_party": "35",
+                 "party_votes_pct": "97.12",
+                 "rank": "329",
+                 "notes": ""
+               },                           {
+                 "id": "S001170",
+                 "name": "Carol Shea-Porter",
+                 "party": "D",
+                 "state": "NH",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "35",
+                 "party_votes_pct": "97.12",
+                 "rank": "330",
+                 "notes": ""
+               },                           {
+                 "id": "M000312",
+                 "name": "Jim McGovern",
+                 "party": "D",
+                 "state": "MA",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "25",
+                 "party_votes_pct": "97.14",
+                 "rank": "331",
+                 "notes": ""
+               },                           {
+                 "id": "K000172",
+                 "name": "Dale E. Kildee",
+                 "party": "D",
+                 "state": "MI",
+                 "district": "5",                 "total_votes": "1875",
+                 "votes_with_party": "1",
+                 "party_votes_pct": "97.17",
+                 "rank": "332",
+                 "notes": ""
+               },                           {
+                 "id": "H000874",
+                 "name": "Steny H. Hoyer",
+                 "party": "D",
+                 "state": "MD",
+                 "district": "5",                 "total_votes": "1875",
+                 "votes_with_party": "21",
+                 "party_votes_pct": "97.20",
+                 "rank": "333",
+                 "notes": ""
+               },                           {
+                 "id": "V000108",
+                 "name": "Peter J. Visclosky",
+                 "party": "D",
+                 "state": "IN",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "48",
+                 "party_votes_pct": "97.21",
+                 "rank": "334",
+                 "notes": ""
+               },                           {
+                 "id": "B001234",
+                 "name": "Joe Baca",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "43",                 "total_votes": "1875",
+                 "votes_with_party": "58",
+                 "party_votes_pct": "97.25",
+                 "rank": "335",
+                 "notes": ""
+               },                           {
+                 "id": "B000410",
+                 "name": "Howard L. Berman",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "28",                 "total_votes": "1875",
+                 "votes_with_party": "92",
+                 "party_votes_pct": "97.25",
+                 "rank": "336",
+                 "notes": ""
+               },                           {
+                 "id": "M000133",
+                 "name": "Edward J. Markey",
+                 "party": "D",
+                 "state": "MA",
+                 "district": "7",                 "total_votes": "1875",
+                 "votes_with_party": "38",
+                 "party_votes_pct": "97.28",
+                 "rank": "337",
+                 "notes": ""
+               },                           {
+                 "id": "W000797",
+                 "name": "Debbie Wasserman Schultz",
+                 "party": "D",
+                 "state": "FL",
+                 "district": "20",                 "total_votes": "1875",
+                 "votes_with_party": "59",
+                 "party_votes_pct": "97.30",
+                 "rank": "338",
+                 "notes": ""
+               },                           {
+                 "id": "C001069",
+                 "name": "Joe Courtney",
+                 "party": "D",
+                 "state": "CT",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "11",
+                 "party_votes_pct": "97.32",
+                 "rank": "339",
+                 "notes": ""
+               },                           {
+                 "id": "L000397",
+                 "name": "Zoe Lofgren",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "16",                 "total_votes": "1875",
+                 "votes_with_party": "46",
+                 "party_votes_pct": "97.32",
+                 "rank": "340",
+                 "notes": ""
+               },                           {
+                 "id": "A000210",
+                 "name": "Robert E. Andrews",
+                 "party": "D",
+                 "state": "NJ",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "225",
+                 "party_votes_pct": "97.33",
+                 "rank": "341",
+                 "notes": ""
+               },                           {
+                 "id": "S001174",
+                 "name": "Betty Sutton",
+                 "party": "D",
+                 "state": "OH",
+                 "district": "13",                 "total_votes": "1875",
+                 "votes_with_party": "57",
+                 "party_votes_pct": "97.36",
+                 "rank": "342",
+                 "notes": ""
+               },                           {
+                 "id": "C001060",
+                 "name": "Russ Carnahan",
+                 "party": "D",
+                 "state": "MO",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "49",
+                 "party_votes_pct": "97.37",
+                 "rank": "343",
+                 "notes": ""
+               },                           {
+                 "id": "S001153",
+                 "name": "Hilda L. Solis",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "32",                 "total_votes": "1875",
+                 "votes_with_party": "44",
+                 "party_votes_pct": "97.38",
+                 "rank": "344",
+                 "notes": ""
+               },                           {
+                 "id": "S000185",
+                 "name": "Robert C. Scott",
+                 "party": "D",
+                 "state": "VA",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "21",
+                 "party_votes_pct": "97.41",
+                 "rank": "345",
+                 "notes": ""
+               },                           {
+                 "id": "C001036",
+                 "name": "Lois Capps",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "23",                 "total_votes": "1875",
+                 "votes_with_party": "19",
+                 "party_votes_pct": "97.41",
+                 "rank": "346",
+                 "notes": ""
+               },                           {
+                 "id": "H001038",
+                 "name": "Brian Higgins",
+                 "party": "D",
+                 "state": "NY",
+                 "district": "27",                 "total_votes": "1875",
+                 "votes_with_party": "134",
+                 "party_votes_pct": "97.42",
+                 "rank": "347",
+                 "notes": ""
+               },                           {
+                 "id": "I000057",
+                 "name": "Steve Israel",
+                 "party": "D",
+                 "state": "NY",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "55",
+                 "party_votes_pct": "97.42",
+                 "rank": "348",
+                 "notes": ""
+               },                           {
+                 "id": "R000053",
+                 "name": "Charles B. Rangel",
+                 "party": "D",
+                 "state": "NY",
+                 "district": "15",                 "total_votes": "1875",
+                 "votes_with_party": "186",
+                 "party_votes_pct": "97.45",
+                 "rank": "349",
+                 "notes": ""
+               },                           {
+                 "id": "S001165",
+                 "name": "Albio Sires",
+                 "party": "D",
+                 "state": "NJ",
+                 "district": "13",                 "total_votes": "1875",
+                 "votes_with_party": "63",
+                 "party_votes_pct": "97.46",
+                 "rank": "350",
+                 "notes": ""
+               },                           {
+                 "id": "S001150",
+                 "name": "Adam B. Schiff",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "29",                 "total_votes": "1875",
+                 "votes_with_party": "23",
+                 "party_votes_pct": "97.46",
+                 "rank": "351",
+                 "notes": ""
+               },                           {
+                 "id": "E000179",
+                 "name": "Eliot L. Engel",
+                 "party": "D",
+                 "state": "NY",
+                 "district": "17",                 "total_votes": "1875",
+                 "votes_with_party": "247",
+                 "party_votes_pct": "97.48",
+                 "rank": "352",
+                 "notes": ""
+               },                           {
+                 "id": "N000179",
+                 "name": "Grace F. Napolitano",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "38",                 "total_votes": "1875",
+                 "votes_with_party": "44",
+                 "party_votes_pct": "97.49",
+                 "rank": "353",
+                 "notes": ""
+               },                           {
+                 "id": "G000553",
+                 "name": "Al Green",
+                 "party": "D",
+                 "state": "TX",
+                 "district": "9",                 "total_votes": "1875",
+                 "votes_with_party": "38",
+                 "party_votes_pct": "97.50",
+                 "rank": "354",
+                 "notes": ""
+               },                           {
+                 "id": "F000043",
+                 "name": "Chaka Fattah",
+                 "party": "D",
+                 "state": "PA",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "193",
+                 "party_votes_pct": "97.50",
+                 "rank": "355",
+                 "notes": ""
+               },                           {
+                 "id": "D000598",
+                 "name": "Susan A. Davis",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "53",                 "total_votes": "1875",
+                 "votes_with_party": "22",
+                 "party_votes_pct": "97.52",
+                 "rank": "356",
+                 "notes": ""
+               },                           {
+                 "id": "M001148",
+                 "name": "Kendrick B. Meek",
+                 "party": "D",
+                 "state": "FL",
+                 "district": "17",                 "total_votes": "1875",
+                 "votes_with_party": "89",
+                 "party_votes_pct": "97.54",
+                 "rank": "357",
+                 "notes": ""
+               },                           {
+                 "id": "M001154",
+                 "name": "Brad Miller",
+                 "party": "D",
+                 "state": "NC",
+                 "district": "13",                 "total_votes": "1875",
+                 "votes_with_party": "31",
+                 "party_votes_pct": "97.56",
+                 "rank": "358",
+                 "notes": ""
+               },                           {
+                 "id": "B000287",
+                 "name": "Xavier Becerra",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "31",                 "total_votes": "1875",
+                 "votes_with_party": "71",
+                 "party_votes_pct": "97.56",
+                 "rank": "359",
+                 "notes": ""
+               },                           {
+                 "id": "M001143",
+                 "name": "Betty McCollum",
+                 "party": "D",
+                 "state": "MN",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "33",
+                 "party_votes_pct": "97.61",
+                 "rank": "360",
+                 "notes": ""
+               },                           {
+                 "id": "N000002",
+                 "name": "Jerrold Nadler",
+                 "party": "D",
+                 "state": "NY",
+                 "district": "8",                 "total_votes": "1875",
+                 "votes_with_party": "97",
+                 "party_votes_pct": "97.64",
+                 "rank": "361",
+                 "notes": ""
+               },                           {
+                 "id": "E000215",
+                 "name": "Anna G. Eshoo",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "14",                 "total_votes": "1875",
+                 "votes_with_party": "35",
+                 "party_votes_pct": "97.66",
+                 "rank": "362",
+                 "notes": ""
+               },                           {
+                 "id": "D000197",
+                 "name": "Diana DeGette",
+                 "party": "D",
+                 "state": "CO",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "97",
+                 "party_votes_pct": "97.69",
+                 "rank": "363",
+                 "notes": ""
+               },                           {
+                 "id": "B001227",
+                 "name": "Robert A. Brady",
+                 "party": "D",
+                 "state": "PA",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "177",
+                 "party_votes_pct": "97.70",
+                 "rank": "364",
+                 "notes": ""
+               },                           {
+                 "id": "L000559",
+                 "name": "Jim Langevin",
+                 "party": "D",
+                 "state": "RI",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "33",
+                 "party_votes_pct": "97.72",
+                 "rank": "365",
+                 "notes": ""
+               },                           {
+                 "id": "V000128",
+                 "name": "Chris Van Hollen",
+                 "party": "D",
+                 "state": "MD",
+                 "district": "8",                 "total_votes": "1875",
+                 "votes_with_party": "29",
+                 "party_votes_pct": "97.72",
+                 "rank": "366",
+                 "notes": ""
+               },                           {
+                 "id": "L000263",
+                 "name": "Sander M. Levin",
+                 "party": "D",
+                 "state": "MI",
+                 "district": "12",                 "total_votes": "1875",
+                 "votes_with_party": "87",
+                 "party_votes_pct": "97.76",
+                 "rank": "367",
+                 "notes": ""
+               },                           {
+                 "id": "P000523",
+                 "name": "David E. Price",
+                 "party": "D",
+                 "state": "NC",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "29",
+                 "party_votes_pct": "97.78",
+                 "rank": "368",
+                 "notes": ""
+               },                           {
+                 "id": "M001163",
+                 "name": "Doris Matsui",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "5",                 "total_votes": "1875",
+                 "votes_with_party": "14",
+                 "party_votes_pct": "97.80",
+                 "rank": "369",
+                 "notes": ""
+               },                           {
+                 "id": "K000113",
+                 "name": "Patrick J. Kennedy",
+                 "party": "D",
+                 "state": "RI",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "98",
+                 "party_votes_pct": "97.81",
+                 "rank": "370",
+                 "notes": ""
+               },                           {
+                 "id": "M000309",
+                 "name": "Carolyn McCarthy",
+                 "party": "D",
+                 "state": "NY",
+                 "district": "4",                 "total_votes": "1875",
+                 "votes_with_party": "46",
+                 "party_votes_pct": "97.81",
+                 "rank": "371",
+                 "notes": ""
+               },                           {
+                 "id": "T000057",
+                 "name": "Ellen O. Tauscher",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "10",                 "total_votes": "1875",
+                 "votes_with_party": "20",
+                 "party_votes_pct": "97.84",
+                 "rank": "372",
+                 "notes": ""
+               },                           {
+                 "id": "N000015",
+                 "name": "Richard E. Neal",
+                 "party": "D",
+                 "state": "MA",
+                 "district": "2",                 "total_votes": "1875",
+                 "votes_with_party": "124",
+                 "party_votes_pct": "97.89",
+                 "rank": "373",
+                 "notes": ""
+               },                           {
+                 "id": "C000984",
+                 "name": "Elijah E. Cummings",
+                 "party": "D",
+                 "state": "MD",
+                 "district": "7",                 "total_votes": "1875",
+                 "votes_with_party": "69",
+                 "party_votes_pct": "97.90",
+                 "rank": "374",
+                 "notes": ""
+               },                           {
+                 "id": "L000557",
+                 "name": "John B. Larson",
+                 "party": "D",
+                 "state": "CT",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "106",
+                 "party_votes_pct": "97.91",
+                 "rank": "375",
+                 "notes": ""
+               },                           {
+                 "id": "M000087",
+                 "name": "Carolyn B. Maloney",
+                 "party": "D",
+                 "state": "NY",
+                 "district": "14",                 "total_votes": "1875",
+                 "votes_with_party": "109",
+                 "party_votes_pct": "97.96",
+                 "rank": "376",
+                 "notes": ""
+               },                           {
+                 "id": "A000022",
+                 "name": "Gary L. Ackerman",
+                 "party": "D",
+                 "state": "NY",
+                 "district": "5",                 "total_votes": "1875",
+                 "votes_with_party": "95",
+                 "party_votes_pct": "97.98",
+                 "rank": "377",
+                 "notes": ""
+               },                           {
+                 "id": "D000216",
+                 "name": "Rosa DeLauro",
+                 "party": "D",
+                 "state": "CT",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "42",
+                 "party_votes_pct": "97.98",
+                 "rank": "378",
+                 "notes": ""
+               },                           {
+                 "id": "B001242",
+                 "name": "Timothy H. Bishop",
+                 "party": "D",
+                 "state": "NY",
+                 "district": "1",                 "total_votes": "1875",
+                 "votes_with_party": "35",
+                 "party_votes_pct": "97.99",
+                 "rank": "379",
+                 "notes": ""
+               },                           {
+                 "id": "S001175",
+                 "name": "Jackie Speier",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "12",                 "total_votes": "511",
+                 "votes_with_party": "86",
+                 "party_votes_pct": "98.12",
+                 "rank": "380",
+                 "notes": "Elected to replace Tom Lantos."
+               },                           {
+                 "id": "S001168",
+                 "name": "John Sarbanes",
+                 "party": "D",
+                 "state": "MD",
+                 "district": "3",                 "total_votes": "1875",
+                 "votes_with_party": "14",
+                 "party_votes_pct": "98.17",
+                 "rank": "381",
+                 "notes": ""
+               },                           {
+                 "id": "R000581",
+                 "name": "Laura Richardson",
+                 "party": "D",
+                 "state": "CA",
+                 "district": "37",                 "total_votes": "1027",
+                 "votes_with_party": "63",
+                 "party_votes_pct": "98.24",
+                 "rank": "382",
+                 "notes": "Elected to replace Millender-McDonald"
+               },                           {
+                 "id": "T000465",
+                 "name": "Niki Tsongas",
+                 "party": "D",
+                 "state": "MA",
+                 "district": "5",                 "total_votes": "894",
+                 "votes_with_party": "9",
+                 "party_votes_pct": "98.31",
+                 "rank": "383",
+                 "notes": "Elected to replace Meehan"
+               },                           {
+                 "id": "L000480",
+                 "name": "Nita M. Lowey",
+                 "party": "D",
+                 "state": "NY",
+                 "district": "18",                 "total_votes": "1875",
+                 "votes_with_party": "79",
+                 "party_votes_pct": "98.33",
+                 "rank": "384",
+                 "notes": ""
+               },                           {
+                 "id": "C001072",
+                 "name": "André Carson",
+                 "party": "D",
+                 "state": "IN",
+                 "district": "7",                 "total_votes": "551",
+                 "votes_with_party": "30",
+                 "party_votes_pct": "98.46",
+                 "rank": "385",
+                 "notes": ""
+               },                           {
+                 "id": "F000455",
+                 "name": "Marcia L. Fudge",
+                 "party": "D",
+                 "state": "OH",
+                 "district": "11",                 "total_votes": "7",
+                 "votes_with_party": "0",
+                 "party_votes_pct": "100.00",
+                 "rank": "386",
+                 "notes": "elected to replace Stephanie Tubbs-Jones"
+               }             ]
+      }
+   ]
+}

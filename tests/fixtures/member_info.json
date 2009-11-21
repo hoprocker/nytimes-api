@@ -1,0 +1,206 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2009 The New York Times Company. All Rights Reserved.",
+   "results":[
+      {
+         "member_id": "L000304",
+         "name": "Joseph I. Lieberman",
+         "first_name": "Joseph",
+         "middle_name": "I.",
+         "last_name": "Lieberman",
+         "date_of_birth": "1942-02-24",
+         "gender": "M",
+         "url": "http://lieberman.senate.gov/",
+         "govtrack_id": "300067",
+         "cspan_id": "4363",
+         "most_recent_vote": "2009-11-19",
+         "roles": [
+         {
+           "congress": "111",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "state": "CT",
+           "party": "ID",
+           "district": "N/A",
+           "start_date": "2009-01-06",
+           "end_date": "2011-01-04",
+                      "missed_votes_pct": "3.13",
+           "votes_with_party_pct": "91.18",
+                      "committees": [
+                                 {
+             "name": "Committee on Small Business and Entrepreneurship",
+             "code": "SSSB",
+             "rank_in_party": "5",
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },                      {
+             "name": "Committee on Armed Services",
+             "code": "SSAS",
+             "rank_in_party": "3",
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           },                      {
+             "name": "Committee on Homeland Security and Governmental Affairs",
+             "code": "SSGA",
+             "rank_in_party": "1",
+             "begin_date": "2009-01-21",
+             "end_date": "2011-01-03"
+           }                      ]
+         },        {
+           "congress": "110",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "state": "CT",
+           "party": "ID",
+           "district": "N/A",
+           "start_date": "2007-01-04",
+           "end_date": "2009-01-03",
+                      "missed_votes_pct": "3.20",
+           "votes_with_party_pct": "86.79",
+                      "committees": [
+                                 {
+             "name": "Committee on Armed Services",
+             "code": "SSAS",
+             "rank_in_party": "4",
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           },                      {
+             "name": "Committee on Environment and Public Works",
+             "code": "SSEV",
+             "rank_in_party": "3",
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           },                      {
+             "name": "Committee on Homeland Security and Governmental Affairs",
+             "code": "SSGA",
+             "rank_in_party": "1",
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           },                      {
+             "name": "Committee on Small Business and Entrepreneurship",
+             "code": "SSSB",
+             "rank_in_party": "4",
+             "begin_date": "2007-01-12",
+             "end_date": "2009-01-03"
+           }                      ]
+         },        {
+           "congress": "109",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "state": "CT",
+           "party": "D",
+           "district": "N/A",
+           "start_date": "2005-01-04",
+           "end_date": "2006-12-09",
+                      "missed_votes_pct": "7.44",
+           "votes_with_party_pct": "88.78",
+                      "committees": [
+           ]
+         },        {
+           "congress": "108",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "state": "CT",
+           "party": "D",
+           "district": "N/A",
+           "start_date": "2003-01-07",
+           "end_date": "2004-12-08",
+                      "missed_votes_pct": "39.11",
+           "votes_with_party_pct": "92.21",
+                      "committees": [
+           ]
+         },        {
+           "congress": "107",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "state": "CT",
+           "party": "D",
+           "district": "N/A",
+           "start_date": "2001-01-03",
+           "end_date": "2002-11-22",
+                      "missed_votes_pct": "1.90",
+           "votes_with_party_pct": "92.11",
+                      "committees": [
+           ]
+         },        {
+           "congress": "106",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "state": "CT",
+           "party": "D",
+           "district": "N/A",
+           "start_date": "1999-01-06",
+           "end_date": "2000-12-15",
+                      "missed_votes_pct": "10.12",
+           "votes_with_party_pct": "90.56",
+                      "committees": [
+           ]
+         },        {
+           "congress": "105",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "state": "CT",
+           "party": "D",
+           "district": "N/A",
+           "start_date": "1997-01-07",
+           "end_date": "1998-12-19",
+                      "missed_votes_pct": "0.65",
+           "votes_with_party_pct": "85.03",
+                      "committees": [
+           ]
+         },        {
+           "congress": "104",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "state": "CT",
+           "party": "D",
+           "district": "N/A",
+           "start_date": "1995-01-04",
+           "end_date": "1996-10-04",
+                      "missed_votes_pct": "1.21",
+           "votes_with_party_pct": "61.50",
+                      "committees": [
+           ]
+         },        {
+           "congress": "103",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "state": "CT",
+           "party": "D",
+           "district": "N/A",
+           "start_date": "1993-01-05",
+           "end_date": "1994-12-01",
+                      "missed_votes_pct": "1.38",
+           "votes_with_party_pct": "83.94",
+                      "committees": [
+           ]
+         },        {
+           "congress": "102",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "state": "CT",
+           "party": "D",
+           "district": "N/A",
+           "start_date": "1991-01-03",
+           "end_date": "1993-01-03",
+                      "missed_votes_pct": "1.09",
+           "votes_with_party_pct": "84.19",
+                      "committees": [
+           ]
+         },        {
+           "congress": "101",
+           "chamber": "Senate",
+           "title": "Senator, 1st Class",
+           "state": "CT",
+           "party": "D",
+           "district": "N/A",
+           "start_date": "1989-01-03",
+           "end_date": "1991-01-03",
+                      "missed_votes_pct": "0.63",
+           "votes_with_party_pct": "84.86",
+                      "committees": [
+           ]
+         }       ]
+        } 
+    ]
+}

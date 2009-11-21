@@ -1,0 +1,124 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2009 The New York Times Company. All Rights Reserved.",
+   "results":[
+      {
+         "congress": "110",
+         "chamber": "House",
+         "num_results": "22",
+         "offset": "0",
+         "committees": [
+                          {
+                 "id": "HSHA",
+                 "name": "Committee on Administration",
+                 "url": "http://cha.house.gov/",
+                 "chair": "B001227"
+               },                           {
+                 "id": "HSAG",
+                 "name": "Committee on Agriculture",
+                 "url": "http://agriculture.house.gov/",
+                 "chair": "P000258"
+               },                           {
+                 "id": "HSAP",
+                 "name": "Committee on Appropriations",
+                 "url": "http://appropriations.house.gov/",
+                 "chair": "O000007"
+               },                           {
+                 "id": "HSAS",
+                 "name": "Committee on Armed Services",
+                 "url": "http://armedservices.house.gov/",
+                 "chair": "S000465"
+               },                           {
+                 "id": "HSED",
+                 "name": "Committee on Education and Labor",
+                 "url": "http://edlabor.house.gov/",
+                 "chair": "M000725"
+               },                           {
+                 "id": "HSIF",
+                 "name": "Committee on Energy and Commerce",
+                 "url": "http://energycommerce.house.gov/",
+                 "chair": "W000215"
+               },                           {
+                 "id": "HSBA",
+                 "name": "Committee on Financial Services",
+                 "url": "http://financialservices.house.gov/",
+                 "chair": "F000339"
+               },                           {
+                 "id": "HSFA",
+                 "name": "Committee on Foreign Affairs",
+                 "url": "http://foreignaffairs.house.gov/",
+                 "chair": "B000410"
+               },                           {
+                 "id": "HSHM",
+                 "name": "Committee on Homeland Security",
+                 "url": "http://homeland.house.gov/",
+                 "chair": "T000193"
+               },                           {
+                 "id": "HSII",
+                 "name": "Committee on Natural Resources",
+                 "url": "http://resourcescommittee.house.gov/",
+                 "chair": "R000011"
+               },                           {
+                 "id": "HSGO",
+                 "name": "Committee on Oversight and Government Reform",
+                 "url": "http://oversight.house.gov/",
+                 "chair": "T000326"
+               },                           {
+                 "id": "HSRU",
+                 "name": "Committee on Rules",
+                 "url": "http://www.rules.house.gov/",
+                 "chair": "S000480"
+               },                           {
+                 "id": "HSSY",
+                 "name": "Committee on Science and Technology",
+                 "url": "http://science.house.gov/",
+                 "chair": "G000309"
+               },                           {
+                 "id": "HSSM",
+                 "name": "Committee on Small Business",
+                 "url": "http://www.house.gov/smbiz/",
+                 "chair": "V000081"
+               },                           {
+                 "id": "HSSO",
+                 "name": "Committee on Standards of Official Conduct",
+                 "url": "http://ethics.house.gov/",
+                 "chair": "L000397"
+               },                           {
+                 "id": "HSBU",
+                 "name": "Committee on the Budget",
+                 "url": "http://budget.house.gov/",
+                 "chair": "S000749"
+               },                           {
+                 "id": "HSJU",
+                 "name": "Committee on the Judiciary",
+                 "url": "http://judiciary.house.gov/",
+                 "chair": "C000714"
+               },                           {
+                 "id": "HSPW",
+                 "name": "Committee on Transportation and Infrastructure",
+                 "url": "http://transportation.house.gov/",
+                 "chair": "O000006"
+               },                           {
+                 "id": "HSVR",
+                 "name": "Committee on Veterans' Affairs",
+                 "url": "http://veterans.house.gov/",
+                 "chair": "F000116"
+               },                           {
+                 "id": "HSWM",
+                 "name": "Committee on Ways and Means",
+                 "url": "http://waysandmeans.house.gov/",
+                 "chair": "R000053"
+               },                           {
+                 "id": "HSIG",
+                 "name": "Permanent Select Committee on Intelligence",
+                 "url": "http://intelligence.house.gov/",
+                 "chair": "R000170"
+               },                           {
+                 "id": "HSGW",
+                 "name": "Select Committee on Energy Independence and Global Warming",
+                 "url": "http://globalwarming.house.gov/",
+                 "chair": "M000133"
+               }             ]
+      }
+   ]
+}

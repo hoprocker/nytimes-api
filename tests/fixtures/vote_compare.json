@@ -1,0 +1,16 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2009 The New York Times Company. All Rights Reserved.",
+   "results":[
+      {
+         "first_member_id": "A000022",
+         "second_member_id": "A000014",
+         "congress": "110",
+         "chamber": "House",
+         "common_votes": "1657",
+         "disagree_votes": "73",
+         "agree_percent": "95.59",
+         "disagree_percent": "4.41"
+      }
+   ]
+}

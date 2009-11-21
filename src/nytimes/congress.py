@@ -13,53 +13,73 @@ class Congress( base.NYTimesBase ):
 	_URL_EXT = "/politics/%s/us/legislative/congress" % ( API_VERS, )
 	_MODULE = "congress"
 
-	## three fundamental units
-	_CONGRESS = {}
-	_MEMBER = {}
-	_BILL = {}
-	_SUBJECTS = {}
-
 	def __init__( self, api_key ):
 		self._API_KEY = api_key
 
 	## interface
 	def getRollCallVotes( self, congress, chamber, session, roll_call ):
-		pass
-	def getMissedVotes( self, congress, chamber, vote_type="missed_votes" ):
-		pass
+		rest = "%s/%s/sessions/%s/votes/%s" % ( congress, chamber, session, roll_call )
+		return self.apiCall( rest )
+	def getMissedVotes( self, congress, chamber ):
+		rest = "%s/%s/missed_votes.json" % ( congress, chamber )
+		return self.apiCall( rest )
+	def getPartyVotes( self, congress, chamber ):
+		rest = "%s/%s/party_votes.json" % ( congress, chamber )
+		return self.apiCall( rest )
 	def getNominationVotes( self, congress ):
+		## API having trouble w/ generating JSON
 		chamber="senate"
-	def getMemberInfo( self, mem_id="", member_name="" ):
-		pass
-	def getMemberRecentVotes( self, mem_id ):
-		pass
-	def getMemberRecentBills( self, mem_id, type="introduced" ):
-		pass
+	def getMemberInfo( self, mem_id ):
+		# TODO : get-by-name
+		rest = "members/%s" % ( mem_id, )
+		return self.apiCall( rest )
+	def getMemberVotes( self, mem_id ):
+		rest = "members/%s/votes" % ( mem_id, )
+		return self.apiCall( rest )
+	def getMemberRecentBills( self, mem_id ):
+		rest = "members/%s/bills/introduced" % ( mem_id, )
+		return self.apiCall( rest )
 	def getMemberRecentCosponsoring( self, mem_id ):
-		pass
+		rest = "members/%s/bills/cosponsored" % ( mem_id, )
+		return self.apiCall( rest )
 	def getMemberFloorAppearances( self, mem_id ):
-		pass
+		## Trent Lott, L000447, missing (how many others?)
+		rest = "members/%s/floor_appearances" % (mem_id,)
+		return self.apiCall( rest )
 	def getMembers( self, congress, chamber ):
-		pass
+		## TODO : implement state, district params
+		rest = "%s/%s/members" % ( congress, chamber )
+		return self.apiCall( rest )
 	def getMembersNew( self ):
-		pass
-	def getMembersVoteCompare( self, mem_id_1, mem_id_2 ):
-		pass
-	def getCommittee( self, congress, chamber ):
-		pass
-	def getBillsRecent( self, congress, chamber, type="introduced" ):
-		## type == introduced | updated
-		pass
-	def getBillInfo( self, congress, bill_id, resource="subjects" ):
-		## resource == subjects | amendments | related
-		pass
+		rest = "members/new_members"
+		return self.apiCall( rest )
+	def getMembersVoteCompare( self, congress, chamber, mem_id_1, mem_id_2 ):
+		rest = "members/%s/compare/%s/%s/%s" % ( mem_id_1, mem_id_2, congress, chamber )
+		return self.apiCall( rest )
+	def getCommittees( self, congress, chamber ):
+		rest ="%s/%s/committees" % ( congress, chamber )
+		return self.apiCall( rest )
+	def getCommitteeMembers( self, congress, chamber, comm_id ):
+		rest ="%s/%s/committees/%s" % ( congress, chamber, comm_id )
+		return self.apiCall( rest )
+	def getBillsRecentIntroduced( self, congress, chamber ):
+		rest = "/%s/%s/bills/introduced" % ( congress, chamber )
+		return self.apiCall( rest )
+	def getBillsRecentUpdated( self, congress, chamber ):
+		rest = "/%s/%s/bills/updated" % ( congress, chamber )
+		return self.apiCall( rest )
+	def getBillDetails( self, congress, bill_id ):
+		rest = "%s/bills/%s" % ( congress, bill_id )
+		return self.apiCall( rest )
+	def getBillSubjects( self, congress, bill_id ):
+		rest = "%s/bills/%s/subjects" % ( congress, bill_id )
+		return self.apiCall( rest )
+	def getBillAmendments( self, congress, bill_id ):
+		rest = "%s/bills/%s/amendments" % ( congress, bill_id )
+		return self.apiCall( rest )
+	def getBillRelated( self, congress, bill_id ):
+		rest = "%s/bills/%s/related" % ( congress, bill_id )
+		return self.apiCall( rest )
 	def getBillCosponsors( self, congress, bill_id ):
-		pass
-
-
-
-
-	## general utility
-	def _genSessKey( self, congress, chamber ):
-		pass
-
+		rest = "%s/bills/%s/cosponsors" % ( congress, bill_id )
+		return self.apiCall( rest )

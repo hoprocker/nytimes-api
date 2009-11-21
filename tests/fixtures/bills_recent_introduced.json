@@ -1,0 +1,214 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2009 The New York Times Company. All Rights Reserved.",
+   "results":[
+      {
+         "congress": "111",
+         "chamber": "House",
+         "num_results": "20",
+         "offset": "0",
+         "bills": [
+                          {
+                 "number": "H.R.4112",
+                 "url_number": "hr4112",
+                 "title": "To amend the Internal Revenue Code of 1986 to modify the requirements for windows, doors, and skylights to be eligible for the credit for nonbusiness energy property.",
+                 "sponsor_id": "Y000062",
+                 "introduced_date": "November 18, 2009",
+                 "cosponsors": "7",
+                 "committees": "House Ways and Means",
+                 "latest_major_action_date": "November 18, 2009",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on Ways and Means."
+              },                           {
+                 "number": "H.R.4111",
+                 "url_number": "hr4111",
+                 "title": "To prohibit the prosecution of unprivileged enemy combatants by the Department of Justice.",
+                 "sponsor_id": "T000260",
+                 "introduced_date": "November 18, 2009",
+                 "cosponsors": "0",
+                 "committees": "House Judiciary",
+                 "latest_major_action_date": "November 18, 2009",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on the Judiciary."
+              },                           {
+                 "number": "H.R.4110",
+                 "url_number": "hr4110",
+                 "title": "To repeal the authority of the Secretary of the Treasury to extend the Troubled Asset Relief Program.",
+                 "sponsor_id": "P000594",
+                 "introduced_date": "November 18, 2009",
+                 "cosponsors": "56",
+                 "committees": "House Financial Services",
+                 "latest_major_action_date": "November 18, 2009",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on Financial Services."
+              },                           {
+                 "number": "H.R.4109",
+                 "url_number": "hr4109",
+                 "title": "To amend the Internal Revenue Code of 1986 to allow the low income housing credit to be carried back 5 years, and for other purposes.",
+                 "sponsor_id": "P000096",
+                 "introduced_date": "November 18, 2009",
+                 "cosponsors": "0",
+                 "committees": "House Ways and Means",
+                 "latest_major_action_date": "November 18, 2009",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on Ways and Means."
+              },                           {
+                 "number": "H.R.4108",
+                 "url_number": "hr4108",
+                 "title": "To authorize the Secretary of the Interior to acquire the Gold Hill Ranch in Coloma, California.",
+                 "sponsor_id": "M001177",
+                 "introduced_date": "November 18, 2009",
+                 "cosponsors": "0",
+                 "committees": "House Natural Resources",
+                 "latest_major_action_date": "November 18, 2009",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on Natural Resources."
+              },                           {
+                 "number": "H.R.4107",
+                 "url_number": "hr4107",
+                 "title": "To preserve and protect the free choice of individual employees to form, join, or assist labor organizations, or to refrain from such activities.",
+                 "sponsor_id": "K000362",
+                 "introduced_date": "November 18, 2009",
+                 "cosponsors": "0",
+                 "committees": "House Education and Labor",
+                 "latest_major_action_date": "November 18, 2009",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on Education and Labor."
+              },                           {
+                 "number": "H.R.4106",
+                 "url_number": "hr4106",
+                 "title": "To authorize the Secretary of Housing and Urban Development to make grants and loans to owners of federally assisted housing projects for costs of making green retrofit improvements to such projects.",
+                 "sponsor_id": "H001047",
+                 "introduced_date": "November 18, 2009",
+                 "cosponsors": "2",
+                 "committees": "House Financial Services",
+                 "latest_major_action_date": "November 18, 2009",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on Financial Services."
+              },                           {
+                 "number": "H.R.4105",
+                 "url_number": "hr4105",
+                 "title": "To prohibit smoking near executive, legislative, and judicial branch entryways.",
+                 "sponsor_id": "E000179",
+                 "introduced_date": "November 18, 2009",
+                 "cosponsors": "0",
+                 "committees": "House Transportation and Infrastructure; House Administration; House Judiciary",
+                 "latest_major_action_date": "November 18, 2009",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the Committee on Transportation and Infrastructure, and in addition to the Committees on House Administration, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+              },                           {
+                 "number": "H.R.4104",
+                 "url_number": "hr4104",
+                 "title": "To direct the Secretary of Transportation to establish and carry out a highway emergency responders safety grant program, and for other purposes.",
+                 "sponsor_id": "E000289",
+                 "introduced_date": "November 18, 2009",
+                 "cosponsors": "0",
+                 "committees": "House Transportation and Infrastructure",
+                 "latest_major_action_date": "November 18, 2009",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on Transportation and Infrastructure."
+              },                           {
+                 "number": "H.R.4103",
+                 "url_number": "hr4103",
+                 "title": "To extend the authority of the Secretary of Education to purchase guaranteed student loans for an additional year, and for other purposes.",
+                 "sponsor_id": "K000363",
+                 "introduced_date": "November 18, 2009",
+                 "cosponsors": "10",
+                 "committees": "House Education and Labor",
+                 "latest_major_action_date": "November 18, 2009",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on Education and Labor."
+              },                           {
+                 "number": "H.RES.919",
+                 "url_number": "hres919",
+                 "title": "Supporting the goals and ideals of Chronic Obstructive Pulmonary Disease Awareness Month.",
+                 "sponsor_id": "S000822",
+                 "introduced_date": "November 18, 2009",
+                 "cosponsors": "1",
+                 "committees": "House Oversight and Government Reform",
+                 "latest_major_action_date": "November 18, 2009",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on Oversight and Government Reform."
+              },                           {
+                 "number": "H.RES.918",
+                 "url_number": "hres918",
+                 "title": "Recognizing the 60th Anniversary of Chuck Bednarik's debut in the National Football League and the contributions of all Slovak-Americans.",
+                 "sponsor_id": "S001169",
+                 "introduced_date": "November 18, 2009",
+                 "cosponsors": "3",
+                 "committees": "House Oversight and Government Reform",
+                 "latest_major_action_date": "November 18, 2009",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on Oversight and Government Reform."
+              },                           {
+                 "number": "H.RES.917",
+                 "url_number": "hres917",
+                 "title": "Recognizing the Florida Keys Scenic Highway on the occasion of its designation as an All-American Road by the U.S. Department of Transportation.",
+                 "sponsor_id": "R000435",
+                 "introduced_date": "November 18, 2009",
+                 "cosponsors": "23",
+                 "committees": "House Transportation and Infrastructure",
+                 "latest_major_action_date": "November 18, 2009",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on Transportation and Infrastructure."
+              },                           {
+                 "number": "H.RES.916",
+                 "url_number": "hres916",
+                 "title": "Recognizing the significant contributions of the Fort Sam Houston Memorial Services Detachment to the veterans of the United States Armed Forces.",
+                 "sponsor_id": "R000568",
+                 "introduced_date": "November 18, 2009",
+                 "cosponsors": "3",
+                 "committees": "House Veterans' Affairs",
+                 "latest_major_action_date": "November 18, 2009",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on Veterans' Affairs."
+              },                           {
+                 "number": "H.RES.915",
+                 "url_number": "hres915",
+                 "title": "Encouraging the Republic of Hungary to respect the rule of law, treat foreign investors fairly, and promote a free and independent press.",
+                 "sponsor_id": "D000607",
+                 "introduced_date": "November 18, 2009",
+                 "cosponsors": "6",
+                 "committees": "House Foreign Affairs",
+                 "latest_major_action_date": "November 18, 2009",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on Foreign Affairs."
+              },                           {
+                 "number": "H.RES.914",
+                 "url_number": "hres914",
+                 "title": "Supporting the observance of National Diabetes Month.",
+                 "sponsor_id": "D000197",
+                 "introduced_date": "November 18, 2009",
+                 "cosponsors": "129",
+                 "committees": "House Energy and Commerce",
+                 "latest_major_action_date": "November 18, 2009",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on Energy and Commerce."
+              },                           {
+                 "number": "H.RES.913",
+                 "url_number": "hres913",
+                 "title": "Recognizing and commending the American Speech-Language-Hearing Association on the 40th anniversary of the establishment of the Office of Multicultural Affairs.",
+                 "sponsor_id": "B001251",
+                 "introduced_date": "November 18, 2009",
+                 "cosponsors": "1",
+                 "committees": "House Energy and Commerce",
+                 "latest_major_action_date": "November 18, 2009",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on Energy and Commerce."
+              },                           {
+                 "number": "H.RES.912",
+                 "url_number": "hres912",
+                 "title": "Recognizing the Aquarium of the Pacific for winning the Super Nova Star of Energy and Efficiency Award and for providing national leadership in marine education, and for other purposes.",
+                 "sponsor_id": "R000581",
+                 "introduced_date": "November 18, 2009",
+                 "cosponsors": "3",
+                 "committees": "House Natural Resources",
+                 "latest_major_action_date": "November 18, 2009",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on Natural Resources."
+              },                           {
+                 "number": "H.RES.911",
+                 "url_number": "hres911",
+                 "title": "Requesting the Attorney General to appoint a special counsel to investigate allegations regarding the organization ACORN.",
+                 "sponsor_id": "E000092",
+                 "introduced_date": "November 18, 2009",
+                 "cosponsors": "0",
+                 "committees": "House Judiciary",
+                 "latest_major_action_date": "November 18, 2009",
+                 "latest_major_action": "Referred to House committee. Status: Referred to the House Committee on the Judiciary."
+              },                           {
+                 "number": "H.CON.RES.214",
+                 "url_number": "hconres214",
+                 "title": "Providing for an adjournment or recess of the two Houses.",
+                 "sponsor_id": "P000597",
+                 "introduced_date": "November 18, 2009",
+                 "cosponsors": "0",
+                 "committees": "",
+                 "latest_major_action_date": "November 18, 2009",
+                 "latest_major_action": "Received in the Senate."
+              }             ]
+      }
+   ]
+}
