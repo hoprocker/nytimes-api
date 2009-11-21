@@ -1,8 +1,13 @@
 #!/usr/bin/python
 
 """
-access to ny-times congress api:
-http://developer.nytimes.com/
+Access to NYTimes congress API (http://developer.nytimes.com/docs/congress_api).
+
+Instantiating the Congress and call its instance methods:
+
+	from nytimes.congress import Congress
+	c = Congress( "<api-key>" )
+	c.getMemberInfo( "L000447" )
 """
 
 from nytimes import API_VERS
@@ -16,15 +21,14 @@ class Congress( base.NYTimesBase ):
 	def __init__( self, api_key ):
 		self._API_KEY = api_key
 
-	## interface
 	def getRollCallVotes( self, congress, chamber, session, roll_call ):
 		rest = "%s/%s/sessions/%s/votes/%s" % ( congress, chamber, session, roll_call )
 		return self.apiCall( rest )
 	def getMissedVotes( self, congress, chamber ):
-		rest = "%s/%s/missed_votes.json" % ( congress, chamber )
+		rest = "%s/%s/missed_votes" % ( congress, chamber )
 		return self.apiCall( rest )
 	def getPartyVotes( self, congress, chamber ):
-		rest = "%s/%s/party_votes.json" % ( congress, chamber )
+		rest = "%s/%s/party_votes" % ( congress, chamber )
 		return self.apiCall( rest )
 	def getNominationVotes( self, congress ):
 		## API having trouble w/ generating JSON
