@@ -31,8 +31,8 @@ class Congress( base.NYTimesBase ):
 		rest = "%s/%s/party_votes" % ( congress, chamber )
 		return self.apiCall( rest )
 	def getNominationVotes( self, congress ):
-		## API having trouble w/ generating JSON
-		chamber="senate"
+		rest = "%s/nominations" % ( congress, )
+		return self.apiCall( rest )
 	def getMemberInfo( self, mem_id ):
 		# TODO : get-by-name
 		rest = "members/%s" % ( mem_id, )

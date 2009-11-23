@@ -1,0 +1,1380 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2009 The New York Times Company. All Rights Reserved.",
+   "results":[
+      {
+         "total_votes": "36",
+         "offset": "0",
+         "votes": [
+                      {
+           "congress": "110",
+           "session": "2",
+           "roll_call": "172",
+           "question": "On the Nomination", 
+           "description": "Confirmation Lt. Gen. Raymond T. Odierno, USA, to be General",
+           "vote_type": "1/2",
+           "date": "2008-07-10",
+           "time": "14:24:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "46",
+             "no": "1",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "48",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "96",
+             "no": "1",
+             "present": "0",
+             "not_voting": "3",
+             "margin": "95"
+            }
+         },                  {
+           "congress": "110",
+           "session": "2",
+           "roll_call": "171",
+           "question": "On the Nomination", 
+           "description": "Confirmation Gen. David H. Petraeus, USA, to be General",
+           "vote_type": "1/2",
+           "date": "2008-07-10",
+           "time": "14:01:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "45",
+             "no": "2",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "48",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "95",
+             "no": "2",
+             "present": "0",
+             "not_voting": "3",
+             "margin": "93"
+            }
+         },                  {
+           "congress": "110",
+           "session": "2",
+           "roll_call": "159",
+           "question": "On the Nomination", 
+           "description": "Confirmation William T. Lawrence, of Indiana, To Be US District Judge",
+           "vote_type": "1/2",
+           "date": "2008-06-26",
+           "time": "16:36:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "47",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "48",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "97",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "margin": "97"
+            }
+         },                  {
+           "congress": "110",
+           "session": "2",
+           "roll_call": "156",
+           "question": "On the Nomination", 
+           "description": "Confirmation Helene N. White, of Michigan, to be US Circuit Judge",
+           "vote_type": "1/2",
+           "date": "2008-06-24",
+           "time": "18:30:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "46",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "15",
+             "no": "32",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "63",
+             "no": "32",
+             "present": "0",
+             "not_voting": "5",
+             "margin": "31"
+            }
+         },                  {
+           "congress": "110",
+           "session": "2",
+           "roll_call": "148",
+           "question": "On the Nomination", 
+           "description": "Confirmation Mark S. Davis of Virginia, to be US District Judge",
+           "vote_type": "1/2",
+           "date": "2008-06-10",
+           "time": "12:27:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "45",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "47",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "94",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "margin": "94"
+            }
+         },                  {
+           "congress": "110",
+           "session": "2",
+           "roll_call": "136",
+           "question": "On the Nomination", 
+           "description": "Confirmation G. Steven Agee, of Virginia to be US Circuit Judge",
+           "vote_type": "1/2",
+           "date": "2008-05-20",
+           "time": "14:30:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "46",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "48",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "96",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "margin": "96"
+            }
+         },                  {
+           "congress": "110",
+           "session": "2",
+           "roll_call": "102",
+           "question": "On the Nomination", 
+           "description": "Confirmation Brian Stacy Miller, of Arkansas, to be US District Judge",
+           "vote_type": "1/2",
+           "date": "2008-04-10",
+           "time": "17:56:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "88",
+             "no": "0",
+             "present": "0",
+             "not_voting": "12",
+             "margin": "88"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "442",
+           "question": "On the Nomination", 
+           "description": "Confirmation John Daniel Tinder, of Indiana, to be U.S. Circuit Judge",
+           "vote_type": "1/2",
+           "date": "2007-12-18",
+           "time": "23:00:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "47",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "93",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "margin": "93"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "408",
+           "question": "On the Nomination", 
+           "description": "Confirmation Robert M. Dow Jr., of Illinois, to be U.S. District Judge",
+           "vote_type": "1/2",
+           "date": "2007-11-13",
+           "time": "10:11:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "41",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "86",
+             "no": "0",
+             "present": "0",
+             "not_voting": "14",
+             "margin": "86"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "407",
+           "question": "On the Nomination", 
+           "description": "Confirmation Michael B. Mukasey of New York, to be Attorney General",
+           "vote_type": "1/2",
+           "date": "2007-11-08",
+           "time": "23:04:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "6",
+             "no": "39",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "46",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "53",
+             "no": "40",
+             "present": "0",
+             "not_voting": "7",
+             "margin": "13"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "393",
+           "question": "On the Nomination", 
+           "description": "Confirmation Leslie Southwick, of Mississippi, to be U.S. Circuit Judge",
+           "vote_type": "1/2",
+           "date": "2007-10-24",
+           "time": "11:28:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "9",
+             "no": "37",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "59",
+             "no": "38",
+             "present": "0",
+             "not_voting": "3",
+             "margin": "21"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "328",
+           "question": "On the Nomination", 
+           "description": "Confirmation Janis Lynn Sammartino, of California, to be U.S. District Judge",
+           "vote_type": "1/2",
+           "date": "2007-09-10",
+           "time": "11:29:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "46",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1"
+            },
+           "total": {
+             "yes": "90",
+             "no": "0",
+             "present": "0",
+             "not_voting": "10",
+             "margin": "90"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "327",
+           "question": "On the Nomination", 
+           "description": "Confirmation William Lindsay Osteen, of North Carolina, to be U.S. District Judge",
+           "vote_type": "1/2",
+           "date": "2007-09-10",
+           "time": "11:06:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "39",
+             "no": "0",
+             "present": "0",
+             "not_voting": "10",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "45",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "86",
+             "no": "0",
+             "present": "0",
+             "not_voting": "14",
+             "margin": "86"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "311",
+           "question": "On the Nomination", 
+           "description": "Confirmation Jim Nussle, of Iowa, to be Director of the Office of Management and Budget",
+           "vote_type": "1/2",
+           "date": "2007-09-04",
+           "time": "18:08:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "23",
+             "no": "23",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "None"
+            },
+           "republican": {
+             "yes": "45",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "69",
+             "no": "24",
+             "present": "0",
+             "not_voting": "7",
+             "margin": "45"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "308",
+           "question": "On the Nomination", 
+           "description": "Confirmation Timothy D. DeGiusti, of Oklahoma, to be US District Judge",
+           "vote_type": "1/2",
+           "date": "2007-08-03",
+           "time": "09:38:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "45",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "96",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "margin": "96"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "240",
+           "question": "On the Nomination", 
+           "description": "Confirmation Janet T. Neff, of Michigan, to be U.S. District Judge",
+           "vote_type": "1/2",
+           "date": "2007-07-09",
+           "time": "18:12:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "37",
+             "no": "4",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "83",
+             "no": "4",
+             "present": "0",
+             "not_voting": "13",
+             "margin": "79"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "239",
+           "question": "On the Nomination", 
+           "description": "Confirmation Liam O'Grady, of Virginia, to be U.S. District Judge",
+           "vote_type": "1/2",
+           "date": "2007-07-09",
+           "time": "17:43:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "42",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "88",
+             "no": "0",
+             "present": "0",
+             "not_voting": "12",
+             "margin": "88"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "238",
+           "question": "On the Nomination", 
+           "description": "Confirmation Richard Sullivan, of New York, to be US District Judge",
+           "vote_type": "1/2",
+           "date": "2007-06-28",
+           "time": "17:00:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "48",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "99",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "margin": "99"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "237",
+           "question": "On the Nomination", 
+           "description": "Confirmation Benjamin Hale Settle, of Washington, to be US District Judge",
+           "vote_type": "1/2",
+           "date": "2007-06-28",
+           "time": "16:45:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "48",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "99",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "margin": "99"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "236",
+           "question": "On the Nomination", 
+           "description": "Confirmation Lt. Gen. Douglas E. Lute, to be Lt. Gen. US Army under title 10, U.S.C., section 601",
+           "vote_type": "1/2",
+           "date": "2007-06-28",
+           "time": "16:11:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "43",
+             "no": "4",
+             "present": "1",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "94",
+             "no": "4",
+             "present": "1",
+             "not_voting": "1",
+             "margin": "90"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "158",
+           "question": "On the Nomination", 
+           "description": "Confirmation Debra Ann Livingston to be U.S. Circuit Judge",
+           "vote_type": "1/2",
+           "date": "2007-05-09",
+           "time": "14:41:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "46",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "43",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "91",
+             "no": "0",
+             "present": "0",
+             "not_voting": "9",
+             "margin": "91"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "153",
+           "question": "On the Nomination", 
+           "description": "Confirmation Frederick J. Kapala, of Illinois, to be U.S. District Judge",
+           "vote_type": "1/2",
+           "date": "2007-05-08",
+           "time": "12:09:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "44",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "45",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "91",
+             "no": "0",
+             "present": "0",
+             "not_voting": "9",
+             "margin": "91"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "136",
+           "question": "On the Nomination", 
+           "description": "Confirmation Halil Suleyman Ozerden, of Mississippi, to be U.S. District Judge",
+           "vote_type": "1/2",
+           "date": "2007-04-24",
+           "time": "12:12:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "46",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "47",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "95",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "margin": "95"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "115",
+           "question": "On the Nomination", 
+           "description": "Confirmation George H. Wu, of California, to be U.S. District Judge",
+           "vote_type": "1/2",
+           "date": "2007-03-27",
+           "time": "12:12:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "47",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "46",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "95",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "margin": "95"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "78",
+           "question": "On the Nomination", 
+           "description": "Confirmation Thomas M. Hardiman, of Pennsylvania, to be U.S. Circuit Judge",
+           "vote_type": "1/2",
+           "date": "2007-03-15",
+           "time": "17:01:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "47",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "46",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "95",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "margin": "95"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "67",
+           "question": "On the Nomination", 
+           "description": "John Alfred Jarvey, of Iowa, to be U.S. District Judge for the Southern District of Iowa",
+           "vote_type": "1/2",
+           "date": "2007-03-08",
+           "time": "18:36:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "46",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "47",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "95",
+             "no": "0",
+             "present": "0",
+             "not_voting": "5",
+             "margin": "95"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "59",
+           "question": "On the Nomination", 
+           "description": "Confirmation Carl J. Artman, of Colorado, to be Assistant Secretary of the Interior",
+           "vote_type": "1/2",
+           "date": "2007-03-05",
+           "time": "17:49:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "41",
+             "no": "0",
+             "present": "0",
+             "not_voting": "8",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "44",
+             "no": "1",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "87",
+             "no": "1",
+             "present": "0",
+             "not_voting": "12",
+             "margin": "86"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "50",
+           "question": "On the Nomination", 
+           "description": "Confirmation Marcia Morales Howard, of Florida, to be U.S. District Judge",
+           "vote_type": "1/2",
+           "date": "2007-02-15",
+           "time": "10:58:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "46",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "45",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "93",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "margin": "93"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "49",
+           "question": "On the Nomination", 
+           "description": "Confirmation Norman Randy Smith, of Idaho, to be U.S. Circuit Judge for the Ninth Circuit",
+           "vote_type": "1/2",
+           "date": "2007-02-15",
+           "time": "10:29:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "46",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "46",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "94",
+             "no": "0",
+             "present": "0",
+             "not_voting": "6",
+             "margin": "94"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "47",
+           "question": "On the Nomination", 
+           "description": "Confirmation Nora Barry Fischer, of Pennsylvania, to be U.S. District Judge",
+           "vote_type": "1/2",
+           "date": "2007-02-14",
+           "time": "16:46:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "46",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "48",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "96",
+             "no": "0",
+             "present": "0",
+             "not_voting": "4",
+             "margin": "96"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "45",
+           "question": "On the Nomination", 
+           "description": "Confirmation Gen. George W. Casey to be Chief of Staff, U.S. Army",
+           "vote_type": "1/2",
+           "date": "2007-02-08",
+           "time": "11:51:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "44",
+             "no": "4",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "37",
+             "no": "10",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "83",
+             "no": "14",
+             "present": "0",
+             "not_voting": "3",
+             "margin": "69"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "41",
+           "question": "On the Nomination", 
+           "description": "Confirmation Gregory Kent Frizzell, of Oklahoma, to be U.S. District Judge",
+           "vote_type": "1/2",
+           "date": "2007-02-01",
+           "time": "12:19:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "48",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "49",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "99",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "margin": "99"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "40",
+           "question": "On the Nomination", 
+           "description": "Confirmation Lawrence Joseph O' Neill, of California, to be U.S. District Judge",
+           "vote_type": "1/2",
+           "date": "2007-02-01",
+           "time": "11:54:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "47",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "48",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "97",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "margin": "97"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "36",
+           "question": "On the Nomination", 
+           "description": "Confirmation Philip S. Gutierrez, of California, to be U.S. District Judge",
+           "vote_type": "1/2",
+           "date": "2007-01-30",
+           "time": "16:39:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "47",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "48",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "97",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "margin": "97"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "35",
+           "question": "On the Nomination", 
+           "description": "Confirmation Lisa Godbey Wood, of Georgia, to be U.S. District Judge",
+           "vote_type": "1/2",
+           "date": "2007-01-30",
+           "time": "16:13:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "47",
+             "no": "0",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "48",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "97",
+             "no": "0",
+             "present": "0",
+             "not_voting": "3",
+             "margin": "97"
+            }
+         },                  {
+           "congress": "110",
+           "session": "1",
+           "roll_call": "33",
+           "question": "On the Nomination", 
+           "description": "Confirmation Lt. Gen. David H. Petraeus, U.S. Army, to be General",
+           "vote_type": "1/2",
+           "date": "2007-01-26",
+           "time": "09:45:00",
+           "result": "Confirmed",
+           "nominee_uri": "",
+           "democratic": {
+             "yes": "42",
+             "no": "0",
+             "present": "0",
+             "not_voting": "7",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "37",
+             "no": "0",
+             "present": "0",
+             "not_voting": "12",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "81",
+             "no": "0",
+             "present": "0",
+             "not_voting": "19",
+             "margin": "81"
+            }
+         }       ]
+    }
+  ]
+}

@@ -86,6 +86,7 @@ class TestCongress( NYTimesTestBase ):
 			'getRollCallVotes' : "votes_hr1866.json",
 			'getMissedVotes' : "votes_missed.json",
 			'getPartyVotes' : "votes_party.json",
+			'getNominationVotes' : "nominations.json",
 			'getBillsRecentIntroduced' : "bills_recent_introduced.json",
 			'getBillsRecentUpdated' : "bills_recent_updated.json",
 			'getMemberInfo' : "member_info.json",
