@@ -16,7 +16,7 @@ This library requires the 'simplejson' library. With Python 2.6, this is include
 =====
 Usage
 
-To install the api, copy the src/nytimes/ directory to your Python packages directory, usually /usr/share/python/{version}/site-packages .
+To install the library, copy the src/nytimes/ directory to your Python packages directory, usually /usr/share/python/{version}/site-packages .
 
 	On Linux:
 	> sudo cp src/nytimes /usr/local/python/{version}/site-packages/
@@ -26,11 +26,15 @@ To install the api, copy the src/nytimes/ directory to your Python packages dire
 		(or, locally)
 	> cp src/nytimes ~/Library/Python/{version}/site-packages/
 
-To use the api, create an instance of the class you wish to use, passing your API key as an argument:
+The current form of the library basically exposes the endpoints available via the NYTimes API. To use the library, create an instance of the class you wish to use, passing your API key as an argument:
 
 	from nytimes.congress import Congress
 
 	cong = Congress( "yourapikeywill:be:here" )
+
+Then call it like so:
+
+	cong.getMemberInfo( 'L000447' )
 
 
 =====

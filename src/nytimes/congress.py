@@ -8,6 +8,9 @@ Instantiating the Congress and call its instance methods:
 	from nytimes.congress import Congress
 	c = Congress( "<api-key>" )
 	c.getMemberInfo( "L000447" )
+
+@author: malcolm mcfarland
+@email : nytimes-python at hoprocker dot net
 """
 
 from nytimes import API_VERS
@@ -47,7 +50,6 @@ class Congress( base.NYTimesBase ):
 		rest = "members/%s/bills/cosponsored" % ( mem_id, )
 		return self.apiCall( rest )
 	def getMemberFloorAppearances( self, mem_id ):
-		## Trent Lott, L000447, missing (how many others?)
 		rest = "members/%s/floor_appearances" % (mem_id,)
 		return self.apiCall( rest )
 	def getMembers( self, congress, chamber ):

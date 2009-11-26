@@ -1,8 +1,10 @@
 #!/usr/bin/python
 
 """
-access to the NYTimes APIs.
-http://developer.nytimes.com/
+Access to NYTimes data APIs (http://developer.nytimes.com/docs/).
+
+@author: malcolm mcfarland
+@email : nytimes-python at hoprocker dot net
 """
 
 API_VERS = "v2"

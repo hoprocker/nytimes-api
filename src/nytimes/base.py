@@ -1,5 +1,12 @@
 #!/usr/bin/python
 
+"""
+Access to NYTimes data APIs (http://developer.nytimes.com/docs/).
+
+@author: malcolm mcfarland
+@email : nytimes-python at hoprocker dot net
+"""
+
 from nytimes import URLS,RESP_FORMAT,QUERY_LIMIT
 import time,urllib
 try: import simplejson as json
